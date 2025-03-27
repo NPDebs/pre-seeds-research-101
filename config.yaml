@@ -15,10 +15,10 @@
 carpentry: 'incubator'
 
 # Alt-text description of the lesson.
-carpentry_description: 'Lesson Description'
+carpentry_description: 'Pre-seeds is a beginner course designed to equip aspiring researchers with the foundational knowledge, skills and tools to embark on their journey.'
 
 # Overall title for pages.
-title: ' Pre-seeds (Research 101) lesson'
+title: 'Pre-seeds (Research 101) lesson'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: 2025-03-27

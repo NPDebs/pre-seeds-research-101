@@ -1,45 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/404.html</loc>
+    <loc>https://NPDebs.github.io/pre-seeds-research-101/404.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/CODE_OF_CONDUCT.html</loc>
+    <loc>https://NPDebs.github.io/pre-seeds-research-101/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/LICENSE.html</loc>
+    <loc>https://NPDebs.github.io/pre-seeds-research-101/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/index.html</loc>
+    <loc>https://NPDebs.github.io/pre-seeds-research-101/aio.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/404.html</loc>
+    <loc>https://NPDebs.github.io/pre-seeds-research-101/images.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://NPDebs.github.io/pre-seeds-research-101/index.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/LICENSE.html</loc>
+    <loc>https://NPDebs.github.io/pre-seeds-research-101/instructor/404.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/index.html</loc>
+    <loc>https://NPDebs.github.io/pre-seeds-research-101/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/introduction.html</loc>
+    <loc>https://NPDebs.github.io/pre-seeds-research-101/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/profiles.html</loc>
+    <loc>https://NPDebs.github.io/pre-seeds-research-101/instructor/aio.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/reference.html</loc>
+    <loc>https://NPDebs.github.io/pre-seeds-research-101/instructor/images.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/introduction.html</loc>
+    <loc>https://NPDebs.github.io/pre-seeds-research-101/instructor/index.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/profiles.html</loc>
+    <loc>https://NPDebs.github.io/pre-seeds-research-101/instructor/instructor-notes.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/reference.html</loc>
+    <loc>https://NPDebs.github.io/pre-seeds-research-101/instructor/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://NPDebs.github.io/pre-seeds-research-101/instructor/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://NPDebs.github.io/pre-seeds-research-101/instructor/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://NPDebs.github.io/pre-seeds-research-101/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://NPDebs.github.io/pre-seeds-research-101/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://NPDebs.github.io/pre-seeds-research-101/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://NPDebs.github.io/pre-seeds-research-101/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://NPDebs.github.io/pre-seeds-research-101/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://NPDebs.github.io/pre-seeds-research-101/reference.html</loc>
   </url>
 </urlset>

@@ -12,9 +12,11 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with The Carpentries Workbench
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
-
+At the end of this episode, learners will be able to:
+- Define research in their own words.
+- List reasons for conducting research.
+- Explain the purpose and significance of research in various fields.
+- Identify real-world examples of research in action.
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Introduction

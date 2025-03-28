@@ -6,7 +6,7 @@ exercises: 2
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using Markdown and `{sandpaper}`?
+- What is research?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -49,11 +49,27 @@ associated with the lessons. They appear in the "Instructor View"
 
 ## Challenge 1: Can you do it?
 
-What is the output of this command?
+**True or False Questions**
+1. All research must include an experiment in order to be valid. (False)
 
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
+2. A key characteristic of research is that it follows a systematic and structured process. (True)
+
+3. Opinions and assumptions can be considered research if they are strongly believed by many people. (False)
+
+4. Academic research always leads to the discovery of new information. (False – sometimes it confirms existing knowledge.)
+
+**Multiple Choice Questions (MCQs)**
+
+Which of the following is NOT a reason for conducting research?
+ a) To satisfy personal curiosity.
+ b) To improve decision-making.
+ c) To confirm pre-existing biases.
+ d) To solve real-world problems.
+ 
+**Scenario-Based Activity**
+- Imagine a university wants to understand why students struggle with online learning. 
+    - How would you describe their study as research?
+    - What benefits can research provide in addressing this issue?
 
 :::::::::::::::::::::::: solution 
 

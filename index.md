@@ -2,8 +2,6 @@
 site: sandpaper::sandpaper_site
 ---
 
-## Lesson Learning Objectives
-
 ### Learning Objectives
 After following this lesson, learners will be able to:
  
@@ -18,7 +16,7 @@ Develop a basic research proposal on a given topic by outlining a research quest
 
 
 ::: prereq 
-### List of prerequisite knowledge
+### Lesson Prerequisites
 
 Learners should have:
 

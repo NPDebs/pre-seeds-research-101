@@ -1,5 +1,5 @@
 ---
-title: "Using Markdown"
+title: "Introduction to research: What is research?"
 teaching: 10
 exercises: 2
 ---

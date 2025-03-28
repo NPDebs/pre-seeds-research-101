@@ -67,6 +67,7 @@ contact: 'deborahudoh02@gmail.com'
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
+- what-is-research.md
 
 # Information for Learners
 learners: 

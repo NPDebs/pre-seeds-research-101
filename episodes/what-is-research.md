@@ -12,7 +12,6 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-At the end of this episode, learners will be able to:
 - Define research in their own words.
 - List reasons for conducting research.
 - Explain the purpose and significance of research in various fields.

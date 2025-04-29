@@ -126,6 +126,7 @@ associated with the lessons. They appear in the "Instructor View"
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Test Your Knowledge!
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
@@ -167,11 +168,6 @@ Answer: C.
 
 ## Figures
 
-You can use standard markdown for static figures with the following syntax:
-
-`![optional caption that appears below the figure](figure url){alt='alt text for
-accessibility purposes'}`
-
 ![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
 
 ::::::::::::::::::::::::::::::::::::: callout
@@ -179,6 +175,7 @@ accessibility purposes'}`
 Callout sections can highlight information.
 
 💡 Not all knowledge is created equal.
+
 What sets research apart from everyday opinions or anecdotes is its structured, objective, and evidence-based approach. 
 If you can’t explain how you arrived at a conclusion, it probably isn’t research.
 

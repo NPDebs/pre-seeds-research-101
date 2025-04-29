@@ -8,8 +8,7 @@ exercises: 4
 
 1. What makes research different from everyday opinions?
 2. What does it mean for research to be "replicable"?
-3. Give an example of applied vs. exploratory research.
-4. Why is critical thinking important in research?
+3. Why is critical thinking important in research?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -102,9 +101,13 @@ Simply put: **without research, we’re just guessing**.
 Let’s say a rural community starts experiencing a rise in cases of waterborne diseases. Some people think the cause is the local river, others blame poor hygiene, and some say it’s just a coincidence.
 
 What would a researcher do?
+
 1. Start by clearly defining the problem: When and where are cases happening?
+
 2. Collect data: Water samples, health records, sanitation practices.
+
 3. Analyse patterns: Are certain water sources contaminated? Are specific villages more affected?
+
 4. Draw conclusions and make recommendations: Maybe the source is an open well near a farm using chemical fertilizers.
 
 This kind of systematic, evidence-based process transforms a community crisis into an opportunity for real, impactful change.
@@ -149,10 +152,11 @@ False.
 ## Challenge 3: 
 
 Which of the following is NOT a reason for conducting research?
- a) To satisfy personal curiosity.
- b) To improve decision-making.
- c) To confirm pre-existing biases.
- d) To solve real-world problems.
+
+a) To satisfy personal curiosity.
+b) To improve decision-making.
+c) To confirm pre-existing biases.
+d) To solve real-world problems.
 
 :::::::::::::::::::::::: solution 
 

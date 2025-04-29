@@ -67,7 +67,7 @@ contact: 'deborahudoh02@gmail.com'
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
-- what-is-research.md
+- ep-1.1-what-is-research.md
 - the-research-process.md
 - types-of-research.md
 - strengths-limitations.md

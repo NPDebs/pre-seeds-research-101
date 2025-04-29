@@ -1,7 +1,7 @@
 ---
 title: "Introduction to research: What is research?"
 teaching: 10
-exercises: 2
+exercises: 4
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 

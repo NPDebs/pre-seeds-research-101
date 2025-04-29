@@ -1,22 +1,45 @@
 ---
 title: "The research process: Steps involved in conducting research"
 teaching: 10
-exercises: 2
+exercises: 9
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- What are the steps in a research process?
+- What is the research process, and why is it important?
+
+- What are the key phases of the research process?
+
+- How do the phases of the research process connect to each other?
+
+- Why is the research process iterative rather than strictly linear?
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- List and briefly describe the five key steps in the research process.
-- Identify the correct sequence of the research steps.
-- Briefly explain the importance of each step in the research process.
+- Outline the major phases of the research process
+ 
+- Match research activities to their corresponding phases.
+
+- Describe the iterative nature of research
+
+- Develop a conceptual foundation for the rest of the course
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+## A Wise Researcher Once Said...
+
+_"Experienced researchers loop back and forth, move forward a step or two 
+before going back in order to move ahead again, change directions,
+all the while anticipating stages not yet begun. And no matter how carefully you plan,
+research follows a crooked path, taking unexpected turns, sometimes up blind alleys,
+even looping back on itself."_
+— Wayne C. Booth (The Craft of Research)
+
+
+
 
 ## Introduction
 

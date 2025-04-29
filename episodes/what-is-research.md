@@ -59,7 +59,6 @@ Someone else, following the same steps, should be able to reproduce your results
 5. **Critical Thinking**
 Researchers must ask tough questions of their own work and be open to alternative interpretations.
 
-:::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::: challenge 
 
 ## Challenge 1: A key characteristic of research is that it follows a systematic and structured process. (True/False)

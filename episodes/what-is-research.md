@@ -59,16 +59,6 @@ Someone else, following the same steps, should be able to reproduce your results
 5. **Critical Thinking**
 Researchers must ask tough questions of their own work and be open to alternative interpretations.
 
-::::::::::::::::::::::::::::::::::::: challenge 
-
-## Challenge 1: A key characteristic of research is that it follows a systematic and structured process. (True/False)
-
-:::::::::::::::::::::::: solution 
-
-True.
-
-:::::::::::::::::::::::::::::::::
-
 ## Why Do We Do Research?
 
 Not all research is done for the same reason. Depending on your goal, you might approach the same topic very differently.
@@ -82,15 +72,6 @@ Not all research is done for the same reason. Depending on your goal, you might 
 
 Think of these like different lenses you can look through—each one helps you focus on a particular aspect of your research question.
 
-::::::::::::::::::::::::::::::::::::: challenge 
-## Challenge 2: All research must include an experiment in order to be valid. (True/False)
-
-:::::::::::::::::::::::: solution 
-
-False.
-
-:::::::::::::::::::::::::::::::::
-
 ## Why Does Research Matters?
 
 Research isn't just for scientists or academics. It affects all of us.
@@ -101,19 +82,6 @@ Research isn't just for scientists or academics. It affects all of us.
 - In everyday life: It sharpens our critical thinking and helps us avoid misinformation.
 
 Simply put: **without research, we’re just guessing**.
-
-::::::::::::::::::::::::::::::::::::: challenge 
-## Challenge 3: Which of the following is NOT a reason for conducting research?
- a) To satisfy personal curiosity.
- b) To improve decision-making.
- c) To confirm pre-existing biases.
- d) To solve real-world problems.
-
-:::::::::::::::::::::::: solution 
-
-Answer: C.
-
-:::::::::::::::::::::::::::::::::
 
 ## Illustrative Example: When Clean Water Becomes a Crisis
 
@@ -141,7 +109,36 @@ associated with the lessons. They appear in the "Instructor View"
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+
 ::::::::::::::::::::::::::::::::::::: challenge 
+
+## Challenge 1: A key characteristic of research is that it follows a systematic and structured process. (True/False)
+
+:::::::::::::::::::::::: solution 
+
+True.
+
+:::::::::::::::::::::::::::::::::
+
+## Challenge 2: All research must include an experiment in order to be valid. (True/False)
+
+:::::::::::::::::::::::: solution 
+
+False.
+
+:::::::::::::::::::::::::::::::::
+
+## Challenge 3: Which of the following is NOT a reason for conducting research?
+ a) To satisfy personal curiosity.
+ b) To improve decision-making.
+ c) To confirm pre-existing biases.
+ d) To solve real-world problems.
+
+:::::::::::::::::::::::: solution 
+
+Answer: C.
+
+:::::::::::::::::::::::::::::::::
 
 ## Challenge: Think Like a Researcher
 
@@ -165,6 +162,7 @@ Hold on to that question. By the end of this lesson, you’ll know how a researc
 [1] "This new lesson looks good"
 ```
 
+::::::::::::::::::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Figures

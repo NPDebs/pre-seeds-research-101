@@ -6,36 +6,62 @@ exercises: 2
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- What is research?
+1. What makes research different from everyday opinions?
+2. What does it mean for research to be "replicable"?
+3. Give an example of applied vs. exploratory research.
+4. Why is critical thinking important in research?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Define research in their own words.
-- List reasons for conducting research.
-- Explain the purpose and significance of research in various fields.
+- Define research in their own words, and how it stands apart from other ways of knowing (e.g. opinion, belief, or anecdote)
+- Identify the defining features (characteristics) of credible research.
+- List reasons for conducting research, and the importance of research in various contexts.
 - Identify real-world examples of research in action.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Introduction
+## A Wise Researcher Once Said…
 
-This is a lesson created via The Carpentries Workbench. It is written in
-[Pandoc-flavored Markdown](https://pandoc.org/MANUAL.html) for static files and
-[R Markdown][r-markdown] for dynamic files that can render code into output. 
-Please refer to the [Introduction to The Carpentries 
-Workbench](https://carpentries.github.io/sandpaper-docs/) for full documentation.
+_“Research is a systematic inquiry to describe, explain, predict, and control the observed phenomenon. It involves inductive and deductive methods.”_
+ — Earl Robert Babbie, American Sociologist
 
-What you need to know is that there are three sections required for a valid
-Carpentries lesson:
+Let’s break that down. “Systematic inquiry” means we don’t just ask questions and hope for the best. 
+We follow a **method**, apply **logic**, and rely on **evidence**.
 
- 1. `questions` are displayed at the beginning of the episode to prime the
-    learner for the content.
- 2. `objectives` are the learning objectives for an episode displayed with
-    the questions.
- 3. `keypoints` are displayed at the end of the episode to reinforce the
-    objectives.
+## What Is Research, Really?
+Research is the engine behind most of the advancements we see in medicine, technology, social policy, and even the arts.
+
+At its core, **research is a structured way of asking and answering questions about the world**. It’s how we move from guessing to knowing.
+
+Unlike casual observations or personal beliefs, research depends on:
+- Gathering data
+- Organising and analysing it
+- Interpreting it logically
+- Drawing conclusions that others can test or build upon
+
+## Key Characteristics of Research
+Let’s look at what separates research from, say, a viral tweet or a hunch you have about something:
+
+1. **Systematic Approach**
+Research follows a clear plan or methodology. You don’t jump from question to conclusion—you walk through the steps carefully.
+
+2. **Objective and Unbiased**
+Good research minimizes personal opinions or preferences. It focuses on what the data says, not what we want it to say.
+
+
+3. **Empirical Evidence**
+It uses real-world observations—things we can see, measure, or document—not just ideas or feelings.
+
+4. **Replicability**
+Someone else, following the same steps, should be able to reproduce your results (or at least understand how you got them).
+
+5. **Critical Thinking**
+Researchers must ask tough questions of their own work and be open to alternative interpretations.
+
+
+
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -46,29 +72,19 @@ associated with the lessons. They appear in the "Instructor View"
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-## Challenge 1: Can you do it?
+## Challenge: Think Like a Researcher
 
-**True or False Questions**
-1. All research must include an experiment in order to be valid. (False)
+Imagine you're sitting in a university lecture hall. 
+Every time you glance around, more students seem to be glued to their phones. 
+Some are scrolling through social media, others texting, and a few seem genuinely disengaged from the class.
 
-2. A key characteristic of research is that it follows a systematic and structured process. (True)
+You start to wonder:
+_Why is this happening? Is it boredom, habit, or maybe something deeper about how students are taught today?_
 
-3. Opinions and assumptions can be considered research if they are strongly believed by many people. (False)
+Now pause—what if you wanted to understand this behavior, not just guess at it?
+How would you systematically investigate this problem in a way that produces useful insights?
 
-4. Academic research always leads to the discovery of new information. (False – sometimes it confirms existing knowledge.)
-
-**Multiple Choice Questions (MCQs)**
-
-Which of the following is NOT a reason for conducting research?
- a) To satisfy personal curiosity.
- b) To improve decision-making.
- c) To confirm pre-existing biases.
- d) To solve real-world problems.
- 
-**Scenario-Based Activity**
-- Imagine a university wants to understand why students struggle with online learning. 
-    - How would you describe their study as research?
-    - What benefits can research provide in addressing this issue?
+Hold on to that question. By the end of this lesson, you’ll know how a researcher would approach it.
 
 :::::::::::::::::::::::: solution 
 
@@ -111,14 +127,7 @@ e.g. by providing the answer to a commonly-asked question.
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-## Math
 
-One of our episodes contains $\LaTeX$ equations when describing how to create
-dynamic reports with {knitr}, so we now use mathjax to describe this:
-
-`$\alpha = \dfrac{1}{(1 - \beta)^2}$` becomes: $\alpha = \dfrac{1}{(1 - \beta)^2}$
-
-Cool, right?
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 

@@ -48,8 +48,7 @@ Let’s look at what separates research from, say, a viral tweet or a hunch you 
 Research follows a clear plan or methodology. You don’t jump from question to conclusion—you walk through the steps carefully.
 
 2. **Objective and Unbiased**
-Good research minimizes personal opinions or preferences. It focuses on what the data says, not what we want it to say.
-
+Good research minimises personal opinions or preferences. It focuses on what the data says, not what we want it to say.
 
 3. **Empirical Evidence**
 It uses real-world observations—things we can see, measure, or document—not just ideas or feelings.
@@ -60,7 +59,77 @@ Someone else, following the same steps, should be able to reproduce your results
 5. **Critical Thinking**
 Researchers must ask tough questions of their own work and be open to alternative interpretations.
 
+:::::::::::::::::::::::::::::::::
 
+## Challenge 1: A key characteristic of research is that it follows a systematic and structured process. (True/False)
+
+:::::::::::::::::::::::: solution 
+
+True.
+
+:::::::::::::::::::::::::::::::::
+
+## Why Do We Do Research?
+
+Not all research is done for the same reason. Depending on your goal, you might approach the same topic very differently.
+
+|   Purpose    |                            Goal                          |
+| ------------ | -------------------------------------------------------- |
+| Exploratory  | To investigate new or poorly understood phenomena.       |
+| Descriptive  | To paint a detailed picture of a population or situation.|
+| Explanatory  | To figure out why something happens—cause and effect.    |
+| Applied      | To solve a practical, real-world problem.                |
+
+Think of these like different lenses you can look through—each one helps you focus on a particular aspect of your research question.
+
+## Challenge 2: All research must include an experiment in order to be valid. (True/False)
+
+:::::::::::::::::::::::: solution 
+
+False.
+
+:::::::::::::::::::::::::::::::::
+
+## Why Does Research Matters?
+
+Research isn't just for scientists or academics. It affects all of us.
+
+- In healthcare: It helps us understand disease and develop treatments.
+- In education: It helps improve how we teach and learn.
+- In policy-making: It ensures decisions are backed by facts, not just opinions.
+- In everyday life: It sharpens our critical thinking and helps us avoid misinformation.
+
+Simply put: **without research, we’re just guessing**.
+
+## Challenge 3: Which of the following is NOT a reason for conducting research?
+ a) To satisfy personal curiosity.
+ b) To improve decision-making.
+ c) To confirm pre-existing biases.
+ d) To solve real-world problems.
+
+:::::::::::::::::::::::: solution 
+
+Answer: C.
+
+:::::::::::::::::::::::::::::::::
+
+## Illustrative Example: When Clean Water Becomes a Crisis
+
+Let’s say a rural community starts experiencing a rise in cases of waterborne diseases. Some people think the cause is the local river, others blame poor hygiene, and some say it’s just a coincidence.
+
+What would a researcher do?
+1. Start by clearly defining the problem: When and where are cases happening?
+2. Collect data: Water samples, health records, sanitation practices.
+3. Analyse patterns: Are certain water sources contaminated? Are specific villages more affected?
+4. Draw conclusions and make recommendations: Maybe the source is an open well near a farm using chemical fertilizers.
+
+This kind of systematic, evidence-based process transforms a community crisis into an opportunity for real, impactful change.
+
+## Wrap-Up: Research as a Way of Seeing the World
+
+To do research is to say: _“I want to understand, not assume.”_
+
+Whether you're investigating disease outbreaks, classroom dynamics, or the impact of climate change, the tools of research help you navigate uncertainty with clarity.
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
@@ -94,16 +163,6 @@ Hold on to that question. By the end of this lesson, you’ll know how a researc
 [1] "This new lesson looks good"
 ```
 
-:::::::::::::::::::::::::::::::::
-
-
-## Challenge 2: how do you nest solutions within challenge blocks?
-
-:::::::::::::::::::::::: solution 
-
-You can add a line with at least three colons and a `solution` tag.
-
-:::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Figures
@@ -127,14 +186,9 @@ e.g. by providing the answer to a commonly-asked question.
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-
-
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Use `.md` files for episodes when you want static content
-- Use `.Rmd` files for episodes when you need to generate output
-- Run `sandpaper::check_lesson()` to identify any issues with your lesson
-- Run `sandpaper::build_lesson()` to preview your lesson locally
+- 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 

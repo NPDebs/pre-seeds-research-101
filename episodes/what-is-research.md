@@ -60,6 +60,7 @@ Someone else, following the same steps, should be able to reproduce your results
 Researchers must ask tough questions of their own work and be open to alternative interpretations.
 
 :::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::: challenge 
 
 ## Challenge 1: A key characteristic of research is that it follows a systematic and structured process. (True/False)
 
@@ -82,6 +83,7 @@ Not all research is done for the same reason. Depending on your goal, you might 
 
 Think of these like different lenses you can look through—each one helps you focus on a particular aspect of your research question.
 
+::::::::::::::::::::::::::::::::::::: challenge 
 ## Challenge 2: All research must include an experiment in order to be valid. (True/False)
 
 :::::::::::::::::::::::: solution 
@@ -101,6 +103,7 @@ Research isn't just for scientists or academics. It affects all of us.
 
 Simply put: **without research, we’re just guessing**.
 
+::::::::::::::::::::::::::::::::::::: challenge 
 ## Challenge 3: Which of the following is NOT a reason for conducting research?
  a) To satisfy personal curiosity.
  b) To improve decision-making.
@@ -188,7 +191,8 @@ e.g. by providing the answer to a commonly-asked question.
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- 
+- Keypoint 1
+- Keypoint 2
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 

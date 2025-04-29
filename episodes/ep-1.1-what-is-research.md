@@ -22,7 +22,7 @@ exercises: 4
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Challenge: Think Like a Researcher
+## Think Like a Researcher
 
 Imagine you're sitting in a university lecture hall. 
 Every time you glance around, more students seem to be glued to their phones. 
@@ -126,7 +126,9 @@ associated with the lessons. They appear in the "Instructor View"
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-## Challenge 1: A key characteristic of research is that it follows a systematic and structured process. (True/False)
+## Challenge 1: 
+
+A key characteristic of research is that it follows a systematic and structured process. (True/False)
 
 :::::::::::::::::::::::: solution 
 
@@ -134,7 +136,9 @@ True.
 
 :::::::::::::::::::::::::::::::::
 
-## Challenge 2: All research must include an experiment in order to be valid. (True/False)
+## Challenge 2: 
+
+All research must include an experiment in order to be valid. (True/False)
 
 :::::::::::::::::::::::: solution 
 
@@ -142,7 +146,9 @@ False.
 
 :::::::::::::::::::::::::::::::::
 
-## Challenge 3: Which of the following is NOT a reason for conducting research?
+## Challenge 3: 
+
+Which of the following is NOT a reason for conducting research?
  a) To satisfy personal curiosity.
  b) To improve decision-making.
  c) To confirm pre-existing biases.
@@ -168,18 +174,19 @@ accessibility purposes'}`
 
 Callout sections can highlight information.
 
-They are sometimes used to emphasise particularly important points
-but are also used in some lessons to present "asides": 
-content that is not central to the narrative of the lesson,
-e.g. by providing the answer to a commonly-asked question.
+💡 Not all knowledge is created equal.
+What sets research apart from everyday opinions or anecdotes is its structured, objective, and evidence-based approach. 
+If you can’t explain how you arrived at a conclusion, it probably isn’t research.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Keypoint 1
-- Keypoint 2
+- Research is a systematic, logical, and evidence-based process for asking and answering questions about the world.
+- It differs from opinion or belief because it relies on data, critical thinking, and clear methodology.
+- Good research is replicable, objective, and empirical—others should be able to follow your steps and understand your conclusions.
+- Research serves various purposes: it can explore new topics, describe conditions, explain relationships, or solve real-world problems.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 

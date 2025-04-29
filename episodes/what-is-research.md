@@ -22,6 +22,20 @@ exercises: 4
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Challenge: Think Like a Researcher
+
+Imagine you're sitting in a university lecture hall. 
+Every time you glance around, more students seem to be glued to their phones. 
+Some are scrolling through social media, others texting, and a few seem genuinely disengaged from the class.
+
+You start to wonder:
+_Why is this happening? Is it boredom, habit, or maybe something deeper about how students are taught today?_
+
+Now pause—what if you wanted to understand this behavior, not just guess at it?
+How would you systematically investigate this problem in a way that produces useful insights?
+
+Hold on to that question. By the end of this lesson, you’ll know how a researcher would approach it.
+
 ## A Wise Researcher Once Said…
 
 _“Research is a systematic inquiry to describe, explain, predict, and control the observed phenomenon. It involves inductive and deductive methods.”_
@@ -139,30 +153,6 @@ False.
 Answer: C.
 
 :::::::::::::::::::::::::::::::::
-
-## Challenge: Think Like a Researcher
-
-Imagine you're sitting in a university lecture hall. 
-Every time you glance around, more students seem to be glued to their phones. 
-Some are scrolling through social media, others texting, and a few seem genuinely disengaged from the class.
-
-You start to wonder:
-_Why is this happening? Is it boredom, habit, or maybe something deeper about how students are taught today?_
-
-Now pause—what if you wanted to understand this behavior, not just guess at it?
-How would you systematically investigate this problem in a way that produces useful insights?
-
-Hold on to that question. By the end of this lesson, you’ll know how a researcher would approach it.
-
-:::::::::::::::::::::::: solution 
-
-## Output
- 
-```output
-[1] "This new lesson looks good"
-```
-
-::::::::::::::::::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Figures

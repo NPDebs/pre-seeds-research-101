@@ -1,27 +1,47 @@
 ---
-title: "Types of research: Exploratory, descriptive, experimental, and qualitative vs. quantitative research."
+title: "Types of Research I: Basic, Applied; Quantitative, Qualitative"
 teaching: 10
-exercises: 2
+exercises: 4
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- What are the different types of research?
+1. What is the difference between basic and applied research?
+2. When would you use qualitative instead of quantitative research?
+3. Can a study be both qualitative and quantitative?
+4. How do different research types affect the kind of data you collect?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Learners will be able to explain the three types of research
-- Provide an original example of a research. 
-- Compare and contrast exploratory, descriptive and experimental research.
-- Provide a question that descriptive research would answer.
-- Analyse research scenarios and determine the most appropriate research approach.
+Learners will be able to:
+
+- Distinguish between basic and applied research.
+- Compare and contrast quantitative or qualitative research.
+- Identify when and why each type is used.
+- Connect each research type to real-world examples and questions.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Introduction
 
+Let’s go back to our earlier curiosity:  
+_Why are so many students distracted by their phones during lectures?_
+
+Now imagine five different researchers trying to answer this question, each with their own method and mindset:
+
+- One carefully observes students and documents their behavior.
+- Another hands out a questionnaire to hundreds of students.
+- A third digs into journal articles to find trends across universities.
+- Another conducts interviews to understand students’ perspectives.
+- And yet another runs an experiment to see if a new teaching method reduces phone use.
+
+Are all of these research? Yes.  
+Are they all the same type of research? Not quite.
+ 
+This episode explores the **various pathways of research**, each tailored to a particular kind of question, context, or goal. 
+You'll learn how different kinds of research give us different kinds of answers.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 

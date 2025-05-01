@@ -70,6 +70,32 @@ It is common in public health, education, engineering, and business.
 
 These two types, they often work together. Basic research builds the foundation, applied research builds the bridge to real-life solutions.
 
+### 2. Quantitative vs. Qualitative Research
+
+#### Quantitative Research
+
+This involves numbers, statistics, and measurable variables. 
+
+Good for answering: _How much? How many? How often? Is there a correlation?_
+
+(Task: Define correlation in a call out)
+
+This type of research uses tools like surveys, experiments, statistical analysis.
+
+- **Example**: Measuring how many students use phones during lectures, how long they spend on them, and whether this correlates with their grades.
+
+#### 🧠 Qualitative Research
+
+This focuses on experiences, meanings, stories, and context.
+
+Good for answering: _Why? How? What was the experience like?_
+
+Qualitative research tools include interviews, focus groups, observations, and content analysis.
+
+- **Example**: Interviewing students to understand why they check their phones, what they feel during lectures, and what might help them focus more.
+
+> 💡 Note: Some research combines both approaches. This is called **Mixed Methods Research**. (Task: Make this a call out)
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 Inline instructor notes can help inform instructors of timing challenges

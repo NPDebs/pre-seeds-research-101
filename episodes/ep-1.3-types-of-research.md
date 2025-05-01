@@ -43,6 +43,21 @@ Are they all the same type of research? Not quite.
 This episode explores the **various pathways of research**, each tailored to a particular kind of question, context, or goal. 
 You'll learn how different kinds of research give us different kinds of answers.
 
+## How do we categorise research?
+There's more than one way to slice the research pie. But most research falls into one or more of the broad categories below:
+
+### 1. Basic vs. Applied Research
+
+#### Basic (or Pure) Research
+This is aimed at expanding our general knowledge, without necessarily needing immediate application. That is, we don't intend to solve a problem today.
+
+Instead, basic research asks: How does the world work?
+
+Thus, it is common in theoretical disciplines or foundational sciences.
+
+- **Example**: Studying how memory works in the brain, even if no product or intervention is being developed.
+
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 Inline instructor notes can help inform instructors of timing challenges

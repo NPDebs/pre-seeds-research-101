@@ -51,12 +51,24 @@ There's more than one way to slice the research pie. But most research falls int
 #### Basic (or Pure) Research
 This is aimed at expanding our general knowledge, without necessarily needing immediate application. That is, we don't intend to solve a problem today.
 
-Instead, basic research asks: How does the world work?
+Instead, basic research asks: _How does the world work?_
 
-Thus, it is common in theoretical disciplines or foundational sciences.
+So, it is common in theoretical disciplines or foundational sciences.
 
 - **Example**: Studying how memory works in the brain, even if no product or intervention is being developed.
 
+
+#### Applied Research
+
+Unlike basic research, this is focused on solving a specific, real-world problem.
+
+Applied research asks: _How can we use knowledge to improve something?_
+
+It is common in public health, education, engineering, and business.
+
+- **Example**: _Investigating how mobile phone use during lectures affects exam performance and then designing strategies to reduce it._
+
+These two types, they often work together. Basic research builds the foundation, applied research builds the bridge to real-life solutions.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 

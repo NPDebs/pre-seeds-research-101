@@ -108,7 +108,7 @@ Both offer important insights. One gives you patterns, while the other gives you
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-### Challenge 1:  
+## Challenge 1:  
 Which type of research is most likely to involve large data sets and statistical analysis?
 
 a) Applied  
@@ -117,16 +117,21 @@ c) Quantitative
 d) Qualitative  
 
 :::::::::::::::::::::::: solution 
+
 **Answer:** c) Quantitative  
+
 :::::::::::::::::::::::::::::::::
 
-### Challenge 2:  
+## Challenge 2:  
 True or False:  
-Applied research has no value unless it's immediately applied to problems, policy or practice.
+Applied research has no value unless it's immediately applied to a problem, policy or practice.
 
 :::::::::::::::::::::::: solution 
+
 **False.** Applied research still builds knowledge, even if implementation is delayed.
+
 :::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 

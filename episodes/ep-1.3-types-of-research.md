@@ -1,7 +1,7 @@
 ---
 title: "Types of Research I: Basic, Applied; Quantitative, Qualitative"
 teaching: 10
-exercises: 4
+exercises: 2
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 

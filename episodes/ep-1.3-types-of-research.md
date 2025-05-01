@@ -24,7 +24,7 @@ Learners will be able to:
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Introduction
+## Think Like a Researcher
 
 Let’s go back to our earlier curiosity:  
 _Why are so many students distracted by their phones during lectures?_
@@ -57,7 +57,6 @@ So, it is common in theoretical disciplines or foundational sciences.
 
 - **Example**: Studying how memory works in the brain, even if no product or intervention is being developed.
 
-
 #### Applied Research
 
 Unlike basic research, this is focused on solving a specific, real-world problem.
@@ -84,7 +83,7 @@ This type of research uses tools like surveys, experiments, statistical analysis
 
 - **Example**: Measuring how many students use phones during lectures, how long they spend on them, and whether this correlates with their grades.
 
-#### 🧠 Qualitative Research
+#### Qualitative Research
 
 This focuses on experiences, meanings, stories, and context.
 
@@ -96,6 +95,48 @@ Qualitative research tools include interviews, focus groups, observations, and c
 
 > 💡 Note: Some research combines both approaches. This is called **Mixed Methods Research**. (Task: Make this a call out)
 
+## Real-world (or Illustrative?) example
+
+Imagine you want to study vaccine hesitancy in your community:
+
+- **Quantitative**: _How many people are hesitant? Which demographics?_
+- **Qualitative**: _Why are they hesitant? What fears or beliefs do they have?_
+
+Both offer important insights. One gives you patterns, while the other gives you meaning.
+
+## Test Your Knowledge!
+
+::::::::::::::::::::::::::::::::::::: challenge 
+
+### Challenge 1:  
+Which type of research is most likely to involve large data sets and statistical analysis?
+
+a) Applied  
+b) Basic  
+c) Quantitative  
+d) Qualitative  
+
+:::::::::::::::::::::::: solution 
+**Answer:** c) Quantitative  
+:::::::::::::::::::::::::::::::::
+
+### Challenge 2:  
+True or False:  
+Applied research has no value unless it's immediately applied to problems, policy or practice.
+
+:::::::::::::::::::::::: solution 
+**False.** Applied research still builds knowledge, even if implementation is delayed.
+:::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::: keypoints 
+
+- Basic research builds theory; applied research solves problems.
+- Quantitative research answers “how much” with numbers.
+- Qualitative research answers “why” with stories and context.
+- Mixed methods combine the strengths of both.
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 Inline instructor notes can help inform instructors of timing challenges
@@ -103,74 +144,14 @@ associated with the lessons. They appear in the "Instructor View"
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::: challenge 
-
-## Challenge 1: Can you do it?
-
-What is the output of this command?
-
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
-
-:::::::::::::::::::::::: solution 
-
-## Output
- 
-```output
-[1] "This new lesson looks good"
-```
-
-:::::::::::::::::::::::::::::::::
-
-
-## Challenge 2: how do you nest solutions within challenge blocks?
-
-:::::::::::::::::::::::: solution 
-
-You can add a line with at least three colons and a `solution` tag.
-
-:::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::::::::::::::::::
-
 ## Figures
 
-You can use standard markdown for static figures with the following syntax:
-
-`![optional caption that appears below the figure](figure url){alt='alt text for
-accessibility purposes'}`
+Add infographic:
 
 ![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
 
 ::::::::::::::::::::::::::::::::::::: callout
 
-Callout sections can highlight information.
-
-They are sometimes used to emphasise particularly important points
-but are also used in some lessons to present "asides": 
-content that is not central to the narrative of the lesson,
-e.g. by providing the answer to a commonly-asked question.
+Add callout from lesson.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-## Math
-
-One of our episodes contains $\LaTeX$ equations when describing how to create
-dynamic reports with {knitr}, so we now use mathjax to describe this:
-
-`$\alpha = \dfrac{1}{(1 - \beta)^2}$` becomes: $\alpha = \dfrac{1}{(1 - \beta)^2}$
-
-Cool, right?
-
-::::::::::::::::::::::::::::::::::::: keypoints 
-
-- Use `.md` files for episodes when you want static content
-- Use `.Rmd` files for episodes when you need to generate output
-- Run `sandpaper::check_lesson()` to identify any issues with your lesson
-- Run `sandpaper::build_lesson()` to preview your lesson locally
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-[r-markdown]: https://rmarkdown.rstudio.com/
-

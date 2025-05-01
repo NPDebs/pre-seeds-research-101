@@ -85,7 +85,7 @@ Not all research is done for the same reason. Depending on your goal, you might 
 
 Think of these like different lenses you can look through—each one helps you focus on a particular aspect of your research question.
 
-## Why Does Research Matters?
+## Why Does Research Matter?
 
 Research isn't just for scientists or academics. It affects all of us.
 

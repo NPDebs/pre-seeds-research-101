@@ -110,42 +110,102 @@ Determine the research design and methodology, including selecting participants 
 data collection methods (e.g., surveys, experiments), and procedures. Will you conduct experiments,
 surveys, case studies, or secondary data analysis? This step aligns your tools with your goals.
 
-- *She chooses a simple observational survey. She plans to assess environmental conditions around households and collect information on malaria history from parents of school-aged children. She creates a basic checklist with help from a local nurse, including signs of poor sanitation like stagnant water, open drains, and exposed refuse.*
+- *She chooses a simple observational survey. She plans to assess environmental conditions around households and collect
+   information on malaria history from parents of school-aged children. She creates a basic checklist with help from a
+   local nurse, including signs of poor sanitation like stagnant   water, open drains, and exposed refuse.*
 
   
 ### Data Collection
-Time to gather information! Collect empirical data based on your chosen methodology. This could be through interviews, questionnaires, sensors, or even scraping online data. How you collect data must be ethical, accurate, and purposeful.
+Time to gather information! Collect empirical data based on your chosen methodology. This could be through interviews,
+questionnaires, sensors, or even scraping online data. How you collect data must be ethical, accurate, and purposeful.
 
-- *Over two weeks, Aisha visits 50 homes. She observes the environment and asks parents how often their children have had malaria in the past 6 months. She records her findings using her notebook and a checklist, with permission from participants.*
+- *Over two weeks, Aisha visits 50 homes. She observes the environment and asks parents how often their children have
+  had malaria in the past 6 months. She records her findings using her notebook and a checklist, with permission from participants.*
 
 
 ### Data Analysis
-Use appropriate statistical or qualitative analysis techniques to analyse the collected data and test your hypotheses. This is where your raw data becomes meaningful. You’ll look for patterns, test hypotheses, and answer your research questions.
+Use appropriate statistical or qualitative analysis techniques to analyse the collected data and test your hypotheses.
+This is where your raw data becomes meaningful. You’ll look for patterns, test hypotheses, and answer your research questions.
 
-- *With help from her nephew, who is good with Excel, Aisha organises the data. They create simple charts comparing the number of malaria episodes with the sanitation scores. The results suggest that children in homes with poor sanitation had significantly more malaria episodes.*
+- *With help from her nephew, who is good with Excel, Aisha organises the data. They create simple charts comparing the
+  number of malaria episodes with the sanitation scores. The results suggest that children in homes with poor sanitation had
+  significantly more malaria episodes.*
 
 
 ### Interpreting Results
-Interpret the results of your data analysis in the context of your research question and hypotheses. Consider implications, limitations, and future research directions. What do your findings actually mean? Are they consistent with previous research? Do they raise new questions?
+Interpret the results of your data analysis in the context of your research question and hypotheses. Consider implications,
+limitations, and future research directions. What do your findings actually mean? Are they consistent with previous research?
+Do they raise new questions?
 
-- *Aisha interprets the findings: in her community, poor sanitation practices appear strongly linked to repeated malaria infections. She notes that many families lack access to covered bins, drainage systems, or insecticide-treated nets.*
+- *Aisha interprets the findings: in her community, poor sanitation practices appear strongly linked to repeated malaria
+   infections. She notes that many families lack access to covered bins, drainage systems, or insecticide-treated nets.*
 
   
 ### Draw Conclusions
 Draw conclusions based on your findings and discuss how they contribute to the field of study or address the research problem.
 
-- *She concludes that community-wide sanitation improvements could reduce malaria infections. She emphasises the need for proper waste disposal, draining of stagnant water, and health education on malaria prevention.*
+- *She concludes that community-wide sanitation improvements could reduce malaria infections. She emphasises the need for
+  proper waste disposal, draining of stagnant water, and health education on malaria prevention.*
 
 ### Sharing Findings
-Your research isn’t complete until it’s communicated. This could be through papers, presentations, infographics, or conversations with stakeholders.
+Your research isn’t complete until it’s communicated. This could be through papers, presentations, infographics, or conversations
+with stakeholders.
 
-- *Aisha presents her findings at the monthly community meeting. She uses simple language and posters to explain the link between the environment and health. The town chief and local health workers are impressed and agree to help with a community clean-up drive.*
+- *Aisha presents her findings at the monthly community meeting. She uses simple language and posters to explain the link
+  between the environment and health. The town chief and local health workers are impressed and agree to help with a community clean-up drive.*
 
 
 ### Evaluate and Reflect
-Reflect on the entire research process, evaluate its strengths and weaknesses, and consider areas for improvement or further exploration..
+Reflect on the entire research process, evaluate its strengths and weaknesses, and consider areas for improvement or further exploration.
 
-- *Aisha reflects that although she is not a professional researcher, her local knowledge and passion made the study meaningful. She notes that involving others from the beginning would have improved data accuracy and plans to train some youth to help with future community surveys.*
+- *Aisha reflects that although she is not a professional researcher, her local knowledge and passion made the study meaningful.
+  She notes that involving others from the beginning would have improved data accuracy and plans to train some youth to help with future
+  community surveys.*
+
+## The Process is Connected, Not Compartmentalised
+
+Each stage flows into the next, and each decision you make affects those that follow. For example:
+
+- Poorly defined objectives can lead to unclear analysis.
+
+- Weak data collection methods can ruin great research designs.
+
+
+That’s why this course doesn’t just teach techniques. We’ll emphasise **how everything connects**—because research isn’t just about *what* you do,
+but *why* and *how* you do it.
+
+
+## Research is Iterative (And That’s a Good Thing!)
+
+You might design a perfect study on paper… only to find that your participants misunderstood your survey,
+or your data has gaps, or your findings raise a brand-new (and even more exciting) question.
+
+That’s not a problem—it’s progress.
+
+Research often involves:
+
+- Revisiting your question after early data collection
+
+- Refining your analysis plan mid-study
+
+- Updating your literature review when new studies emerge
+
+
+In short: **you don’t have to get it all right on the first try.** 
+But you do need a process that helps you notice when something needs to change—and gives you the tools to adjust.
+
+
+## What’s Next?
+
+In the rest of the course, we’ll take a closer look at each of the stages you’ve just seen. And for the rest of this introductory module, you’ll learn:
+
+- The various types of Research and their applications
+  
+- The strengths and limitations of each type
+  
+But for now, remember this:
+**The research process is your ally, not your obstacle.**
+It’s flexible, responsive, and deeply logical—once you understand how it works. Let’s explore it together.
 
 
 

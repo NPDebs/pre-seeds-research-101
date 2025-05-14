@@ -219,34 +219,48 @@ associated with the lessons. They appear in the "Instructor View"
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Test Your Knowledge!
+
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-## Challenge 1: Can you do it?
+## Challenge 1:
 
-What is the output of this command?
+A researcher begins with a well-defined problem and conducts a literature review. During the review,
+they realise their initial research question has already been thoroughly studied. What should the researcher do next?
 
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
-
-:::::::::::::::::::::::: solution 
-
-## Output
- 
-```output
-[1] "This new lesson looks good"
-```
-
-:::::::::::::::::::::::::::::::::
+- A. Skip to the data collection phase
+- B. Abandon the research entirely
+- C. Refine the research problem and continue
+- D. Go ahead with the original question anyway
 
 
-## Challenge 2: how do you nest solutions within challenge blocks?
 
 :::::::::::::::::::::::: solution 
 
-You can add a line with at least three colons and a `solution` tag.
-
+C
 :::::::::::::::::::::::::::::::::
+
+
+## Challenge 2: 
+
+Which of the following best reflects an activity in the “Design the Research” phase?
+
+- A. Searching for articles in a database
+- B. Choosing a sample size and deciding on survey instruments
+- C. Comparing your findings to those of previous studies
+- D. Writing the introduction of your research report
+
+
+:::::::::::::::::::::::: solution 
+
+B
+:::::::::::::::::::::::::::::::::
+
+## Challenge 3:
+
+
+
+
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Figures

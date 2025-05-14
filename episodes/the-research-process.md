@@ -14,7 +14,6 @@ exercises: 9
 
 - Why is the research process iterative rather than strictly linear?
 
-
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
@@ -227,13 +226,11 @@ they realise their initial research question has already been thoroughly studied
 - C. Refine the research problem and continue
 - D. Go ahead with the original question anyway
 
-
-
 :::::::::::::::::::::::: solution 
 
-C
-:::::::::::::::::::::::::::::::::
+C.
 
+:::::::::::::::::::::::::::::::::
 
 ## Challenge 2: 
 
@@ -244,10 +241,10 @@ Which of the following best reflects an activity in the “Design the Research�
 - C. Comparing your findings to those of previous studies
 - D. Writing the introduction of your research report
 
-
 :::::::::::::::::::::::: solution 
 
-B
+B.
+
 :::::::::::::::::::::::::::::::::
 
 ## Challenge 3:
@@ -260,7 +257,7 @@ You are analysing data from interviews and discover a new theme that you hadn’
 
 :::::::::::::::::::::::: solution 
 
-B
+B.
 
 :::::::::::::::::::::::::::::::::
 
@@ -275,7 +272,8 @@ A student decides to examine the effects of social media use on sleep patterns a
 
 :::::::::::::::::::::::: solution 
 
-C
+C.
+
 :::::::::::::::::::::::::::::::::
 
 ## Challenge 5: 
@@ -289,7 +287,8 @@ A researcher presents findings at a public health conference, receives critical 
 
 :::::::::::::::::::::::: solution 
 
- C
+ C.
+ 
 :::::::::::::::::::::::::::::::::
 
 ## Challenge 6: 
@@ -302,7 +301,8 @@ Which of the following best describes the primary goal of the "Evaluate and Refl
 
 :::::::::::::::::::::::: solution 
 
-C
+C.
+
 :::::::::::::::::::::::::::::::::
 
 
@@ -319,16 +319,21 @@ The research process is always linear and should not be revisited once a phase i
 :::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Inline instructor notes can help inform instructors of timing challenges
+associated with the lessons. They appear in the "Instructor View"
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Figures
+
+Add infographic:
 
 ![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
 
+::::::::::::::::::::::::::::::::::::: callout
+
+Add callout from lesson.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-
-
-
-
-[r-markdown]: https://rmarkdown.rstudio.com/

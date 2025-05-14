@@ -6,7 +6,7 @@ Welcome! This repository houses a vision of making the research landscape more e
 
 ## Project Overview
 
-The Pre-seeds program is in the early stages of development, and is evolving as it grows.
+The Pre-seeds (Research 101) program is in the early stages of development, and is evolving as it grows.
 
 It started as a beginner course designed to equip **aspiring researchers** with the foundational knowledge, skills and tools to embark on their journey. Gradually, it has morphed from the initial concept of a [cohort-based](cohort-based.md) training program to a [modular](modular-course.md) course structure. This approach allows for greater flexibility and inclusivity, catering to different learning needs and backgrounds.
 
@@ -29,10 +29,10 @@ We believe in the power of collaboration and invite you to join us in shaping th
 
 ## Contributors
 
-- Deborah Udoh - @npdebs
-- Tosan Okome 
-- Joy Udoh
-- Peace Udoh
+- Deborah Udoh - [@npdebs](https://github.com/NPDebs).
+- Tosan Okome - [@tosan-okome](https://github.com/tosan-okome).
+- Joy Udoh - [@Udoh-Joy](https://github.com/Udoh-Joy).
+- Peace Udoh - [@Peace01-sudo](https://github.com/Peace01-sudo).
 - Bhogal Jyoti
 
 ## Contact
@@ -40,11 +40,7 @@ We believe in the power of collaboration and invite you to join us in shaping th
 For questions, suggestions, or to express interest in collaboration, please reach out via [debs@we-are-ols.org](debs@we-are-ols.org).
 
 
-
-
-
-
-
+----------------------------------------
 
 # The Carpentries Workbench Template Markdown Lesson
 

@@ -258,9 +258,71 @@ B
 
 ## Challenge 3:
 
+You are analysing data from interviews and discover a new theme that you hadn’t anticipated in your original hypothesis. What is the most appropriate next step?
+- A. Ignore the theme to stick to your hypothesis
+- B. Revise your research framework to include the new theme
+- C. Change your research design retroactively
+- D. Restart the research process from the beginning
+
+:::::::::::::::::::::::: solution 
+
+B
+
+:::::::::::::::::::::::::::::::::
+
+## Challenge 4: 
+
+A student decides to examine the effects of social media use on sleep patterns among university students. Which phase of the research process is the student currently in?
+
+- A. Formulating a hypothesis
+- B. Communicating findings
+- C. Identifying the research problem
+- D. Analysing data
+
+:::::::::::::::::::::::: solution 
+
+C
+:::::::::::::::::::::::::::::::::
+
+## Challenge 5: 
+
+A researcher presents findings at a public health conference, receives critical feedback, and decides to re-analyse their data using a different method. This illustrates:
+
+- A. A failure to conduct proper data analysis
+- B. The final phase of the research process
+- C. The iterative nature of research
+- D. Poor planning in the research design phase
+
+:::::::::::::::::::::::: solution 
+
+ C
+:::::::::::::::::::::::::::::::::
+
+## Challenge 6: 
+
+Which of the following best describes the primary goal of the "Evaluate and Reflect" stage in research?
+- A. To formulate a hypothesis for the next study
+- B. To interpret statistical results
+- C. To identify strengths, weaknesses, and opportunities for improvement
+- D. To compare your results with those of others
+
+:::::::::::::::::::::::: solution 
+
+C
+:::::::::::::::::::::::::::::::::
 
 
+## Challenge 7:
 
+
+The research process is always linear and should not be revisited once a phase is complete. (True/False)
+
+
+:::::::::::::::::::::::: solution 
+
+ False
+
+:::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Figures

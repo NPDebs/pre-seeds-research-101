@@ -1,5 +1,5 @@
 ---
-title: "Episode 1.4: Strengths, Limitations, and Applications of Research Types"
+title: "Episode 1.5: Strengths, Limitations, and Applications of Research Types"
 teaching: 15
 exercises: 5
 ---

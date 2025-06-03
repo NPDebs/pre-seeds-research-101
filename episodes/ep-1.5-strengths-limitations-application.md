@@ -174,6 +174,7 @@ Which research types could apply?
 
 :::::::::::::::::::::::: solution
 
+All of them! 
 - **Descriptive**: Collect data on how many students are receiving meals.
 - **Explanatory**: Analyze test scores before and after the program to see if there's an academic impact.
 - **Applied**: Evaluate whether the program should be expanded based on findings.

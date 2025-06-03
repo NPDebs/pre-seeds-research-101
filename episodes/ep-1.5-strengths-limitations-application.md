@@ -176,6 +176,7 @@ Which research types could apply?
 
 All of them! 
 - **Descriptive**: Collect data on how many students are receiving meals.
+- **Exploratory**: Conduct interviews or focus groups with students, teachers, and parents to gather insights about how the meal program might be influencing student well-being and engagement.
 - **Explanatory**: Analyze test scores before and after the program to see if there's an academic impact.
 - **Applied**: Evaluate whether the program should be expanded based on findings.
 

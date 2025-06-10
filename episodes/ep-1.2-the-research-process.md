@@ -1,5 +1,5 @@
 ---
-title: "The research process: Steps involved in conducting research"
+title: "Episode 1.2: The research process: Steps involved in conducting research"
 teaching: 10
 exercises: 9
 ---

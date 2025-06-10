@@ -105,6 +105,7 @@ True | False: A study can never be both basic **and** applied.
 False. A project can develop basic theory in its early phase and apply that knowledge in a later phase—or run both threads in parallel.
 
 ::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 

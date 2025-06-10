@@ -1,5 +1,5 @@
 ---
-title: "Introduction to research: What is research?"
+title: "Episode 1.1: Introduction to research: What is research?"
 teaching: 10
 exercises: 4
 ---

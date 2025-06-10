@@ -7,7 +7,9 @@ exercises: 4
 :::::::::::::::::::::::::::::::::::::::: questions
 
 1. Why do researchers use different classification systems to describe their studies?  
-2. Can a single study belong to more than one research category?  
+2. Can a single study belong to more than one research category?
+
+::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: objectives
 

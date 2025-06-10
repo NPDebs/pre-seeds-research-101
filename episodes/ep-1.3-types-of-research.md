@@ -17,7 +17,7 @@ exercises: 4
 - Explain how each criterion influences study design and interpretation.  
 - Match a brief study description to two appropriate classification labels.  
 
-:::::::::::::::::::::::::::::::::::::::: introduction
+:::::::::::::::::::::::::::::::::::::::: 
 
 ## Why Classify Research at All?
 
@@ -33,7 +33,7 @@ Giving studies the right labels helps us:
 
 In this episode, we step back to see the *whole* classification map before zooming in on specific types in later lessons.
 
-::::::::::::::::::::::::::::::::::::::::
+---
 
 ## The Big Picture: Common Ways to Classify Research
 
@@ -86,6 +86,7 @@ In this episode, we step back to see the *whole* classification map before zoomi
 - **Primary**: your own classroom observations.  
 - **Secondary**: institutional attendance records from past years.
 
+## Test Your Knowledge!
 :::::::::::::::::::::::::::::::::::::::: challenge
 
 ### Challenge 1   
@@ -106,7 +107,7 @@ True | False: A study can never be both basic **and** applied.
 
 False. A project can develop basic theory in its early phase and apply that knowledge in a later phase—or run both threads in parallel.
 
-::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
@@ -116,6 +117,8 @@ False. A project can develop basic theory in its early phase and apply that know
 - Most real studies blend several categories; classifications are tools, not rigid boxes.  
 - Recognising the map of research types prepares you to plan and communicate your own projects.
 
+::::::::::::::::::::::::::::::::::::::::::::::::
+
 :::::::::::::::::::::::::::::::::::::::: instructor
 
 ### Instructor Notes
@@ -123,7 +126,7 @@ False. A project can develop basic theory in its early phase and apply that know
 - Invite learners to label their personal project ideas using at least three different criteria.  
 - Emphasise that labels may shift as a study evolves—research is iterative.
 
-::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Figures
 

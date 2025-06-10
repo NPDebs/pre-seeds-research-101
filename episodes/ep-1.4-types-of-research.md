@@ -1,5 +1,5 @@
 ---
-title: "Types of Research I: Basic, Applied; Quantitative, Qualitative"
+title: "Episode 1.4: Types of Research I: Basic, Applied; Quantitative, Qualitative"
 teaching: 10
 exercises: 2
 ---

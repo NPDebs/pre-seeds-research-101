@@ -172,15 +172,12 @@ Answer: C.
 
 ::::::::::::::::::::::::::::::::::::: callout
 
-Callout sections can highlight information.
-
 💡 Not all knowledge is created equal.
 
 What sets research apart from everyday opinions or anecdotes is its structured, objective, and evidence-based approach. 
 If you can’t explain how you arrived at a conclusion, it probably isn’t research.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
-
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
@@ -190,5 +187,3 @@ If you can’t explain how you arrived at a conclusion, it probably isn’t rese
 - Research serves various purposes: it can explore new topics, describe conditions, explain relationships, or solve real-world problems.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
-
-[r-markdown]: https://rmarkdown.rstudio.com/

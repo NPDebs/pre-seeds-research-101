@@ -72,7 +72,14 @@ advising decision-makers, or giving yourself a pat on the back for staying hydra
 
 We’ll cover each of these in detail in later modules of the course, but for now, here’s the big picture:
 
+![research-process](https://github.com/user-attachments/assets/b8c95153-7aa5-403b-a883-e2c63f6896e9)
+
+![research-process](https://github.com/user-attachments/assets/b8c95153-7aa5-403b-a883-e2c63f6896e9){alt='An infographic titled "The Research Process" showing 10 stages in a flowchart format. The stages are: 1) Problem Identification – What do I want to know?, 2) Literature Review – What’s already known?, 3) Objectives/Hypothesis – What do I predict?, 4) Research Design – How will I find out?, 5) Data Collection – Go get the facts!, 6) Data Analysis – What do the numbers say?, 7) Result Interpretation – What does it mean?, 8) Conclusion – So what?, 9) Share – Share the story, 10) Evaluation – What worked? What next? Each stage is accompanied by an icon and arranged left to right as a horizontal arrow.'}
+
+
 ![The Research Process](/assets/images/research-process.png){alt='An infographic titled "The Research Process" showing 10 stages in a flowchart format. The stages are: 1) Problem Identification – What do I want to know?, 2) Literature Review – What’s already known?, 3) Objectives/Hypothesis – What do I predict?, 4) Research Design – How will I find out?, 5) Data Collection – Go get the facts!, 6) Data Analysis – What do the numbers say?, 7) Result Interpretation – What does it mean?, 8) Conclusion – So what?, 9) Share – Share the story, 10) Evaluation – What worked? What next? Each stage is accompanied by an icon and arranged left to right as a horizontal arrow.'}
+
+
 
 *Aisha, a market woman and community volunteer in a rural town, begins to notice that many children in her 
 area frequently miss school due to malaria. Concerned about the possible link between environmental factors 
@@ -327,8 +334,6 @@ Inline instructor notes can help inform instructors of timing challenges
 associated with the lessons. They appear in the "Instructor View"
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![The Research Process](/assets/images/research-process.png){alt='An infographic titled "The Research Process" showing 10 stages in a flowchart format. The stages are: 1) Problem Identification – What do I want to know?, 2) Literature Review – What’s already known?, 3) Objectives/Hypothesis – What do I predict?, 4) Research Design – How will I find out?, 5) Data Collection – Go get the facts!, 6) Data Analysis – What do the numbers say?, 7) Result Interpretation – What does it mean?, 8) Conclusion – So what?, 9) Share – Share the story, 10) Evaluation – What worked? What next? Each stage is accompanied by an icon and arranged left to right as a horizontal arrow.'}
 
 ::::::::::::::::::::::::::::::::::::: callout
 

@@ -72,6 +72,9 @@ advising decision-makers, or giving yourself a pat on the back for staying hydra
 
 We’ll cover each of these in detail in later modules of the course, but for now, here’s the big picture:
 
+![Flowchart of the 10 research process stages](../research-process.png)
+
+
 *Aisha, a market woman and community volunteer in a rural town, begins to notice that many children in her 
 area frequently miss school due to malaria. Concerned about the possible link between environmental factors 
 and malaria cases, she decides to investigate whether improper waste disposal and stagnant water around homes

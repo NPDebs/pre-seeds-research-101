@@ -9,7 +9,8 @@ exercises: 2
 1. What is the difference between basic and applied research?
 2. When would you use qualitative instead of quantitative research?
 3. Can a study be both qualitative and quantitative?
-4. How do different research types affect the kind of data you collect?
+4. What are descriptive and experimental research, and when are they used?
+5. How do different research types affect the kind of data you collect?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -18,7 +19,7 @@ exercises: 2
 Learners will be able to:
 
 - Distinguish between basic and applied research.
-- Compare and contrast quantitative or qualitative research.
+- Compare and contrast quantitative, qualitative, descriptive, and experimental research.
 - Identify when and why each type is used.
 - Connect each research type to real-world examples and questions.
 
@@ -95,14 +96,36 @@ Qualitative research tools include interviews, focus groups, observations, and c
 
 > 💡 Note: Some research combines both approaches. This is called **Mixed Methods Research**. (Task: Make this a call out)
 
-## Real-world (or Illustrative?) example
+### 3. Descriptive vs. Experimental Research
+
+#### Descriptive Research
+
+This is about observing, recording, and describing a phenomenon without manipulating any variables.
+It answers: What is happening? Who is involved? How widespread is it?
+
+Descriptive research helps to build a picture of a situation as it naturally occurs.
+- **Example**: Surveying how many students report being distracted by phones and tracking differences across age groups or courses.
+
+#### Experimental Research
+
+This involves actively manipulating one variable to observe its effect on another.
+It answers: Does this cause that? What happens if we intervene?
+Experimental research is key when you want to establish cause and effect.
+
+- **Example**: Introducing a no-phone policy in some classes and comparing exam scores with classes that kept phones.
+
+## Illustrative example
 
 Imagine you want to study vaccine hesitancy in your community:
 
 - **Quantitative**: _How many people are hesitant? Which demographics?_
 - **Qualitative**: _Why are they hesitant? What fears or beliefs do they have?_
+- **Descriptive**: _What are the most common concerns expressed in public forums or media?_
+- **Experimental**: _What happens when people are shown targeted educational videos — does their willingness to vaccinate increase?_
 
-Both offer important insights. One gives you patterns, while the other gives you meaning.
+All offer important insights. Some give you patterns, others give you meaning or causal relationships.
+
+
 
 ## Test Your Knowledge!
 
@@ -139,6 +162,10 @@ Applied research has no value unless it's immediately applied to a problem, poli
 - Quantitative research answers “how much” with numbers.
 - Qualitative research answers “why” with stories and context.
 - Mixed methods combine the strengths of both.
+- Descriptive research tells you what’s happening without changing anything.
+- Experimental research tests cause and effect by manipulating variables.
+
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 

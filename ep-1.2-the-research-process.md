@@ -18,6 +18,8 @@ exercises: 9
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
+Learners will be able to:
+
 - Outline the major phases of the research process
  
 - Match research activities to their corresponding phases.

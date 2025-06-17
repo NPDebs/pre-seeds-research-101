@@ -94,8 +94,6 @@ Qualitative research tools include interviews, focus groups, observations, and c
 
 - **Example**: Interviewing students to understand why they check their phones, what they feel during lectures, and what might help them focus more.
 
-> 💡 Note: Some research combines both approaches. This is called **Mixed Methods Research**. (Task: Make this a call out)
-
 ### 3. Descriptive vs. Experimental Research
 
 #### Descriptive Research
@@ -184,6 +182,6 @@ Add infographic:
 
 ::::::::::::::::::::::::::::::::::::: callout
 
-Add callout from lesson.
+💡 Note: Some research combines both approaches. This is called **Mixed Methods Research**.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::

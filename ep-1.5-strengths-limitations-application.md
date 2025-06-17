@@ -14,6 +14,8 @@ exercises: 5
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
+Learners will be able to:
+
 - Identify at least two strengths and limitations for each of the types of research.
 - Match each type of research to a practical example or disciplinary use case.
 - Decide which research type(s) may be most appropriate for a given research question or real-world scenario.

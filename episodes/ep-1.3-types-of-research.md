@@ -13,6 +13,8 @@ exercises: 4
 
 :::::::::::::::::::::::::::::::::::::::: objectives
 
+Learners will be able to:
+
 - List at least four common criteria used to classify research (e.g. purpose, methodology, design, timeframe).  
 - Explain how each criterion influences study design and interpretation.  
 - Match a brief study description to two appropriate classification labels.  

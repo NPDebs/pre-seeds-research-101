@@ -40,34 +40,57 @@ In the previous episode, we introduced four common **types of research**, often 
 
 | Type           | Goal                                        |
 |----------------|---------------------------------------------|
-| Exploratory    | Investigate new or poorly understood issues |
-| Descriptive    | Offer detailed accounts of what exists |
-| Explanatory    | Uncover cause-and-effect relationships |
+| Baic           | Expand fundamental knowledge without immediate use|
 | Applied        | Address real-world problems directly |
+| Descriptive    | Document or quantify what is happening |
+| Experimental   | Test cause-and-effect relationships |
+| Qualitative    | Understand experiences, meanings, context |
+| Quantitative	 | Measure variables using numerical data |
 
-These types often make use of **qualitative**, **quantitative**, or **mixed methods**, depending on the nature of the research question.
+These types can work independently or in combination, depending on the research question.
 
 Let’s now take a deeper look at each research type and how it plays out in practice.
 
-## Exploratory Research
+## Basic Research
 
-**Used when:** The problem or phenomenon is not well understood and needs preliminary investigation.
+**Used when:**  You want to understand how things work at a fundamental level.
 
 ### Strengths
-- Flexible and open-ended.
-- Useful for identifying patterns, generating hypotheses, and defining new problems.
-- Ideal for new or emerging topics.
+- Builds foundational knowledge and theories.
+- Often leads to future innovation and discovery.
 
 ### Limitations
-- Often lacks structure, making it hard to replicate.
-- Findings may not be generalizable.
+- May not have immediate application.
+- Hard to justify in applied or results-driven environments.
 - Results tend to be tentative and may not lead to actionable conclusions on their own.
 
 ### Real-World Applications
-- A nonprofit exploring why adolescents in rural areas avoid health clinics.
-- A tech company conducting focus groups to understand public attitudes toward AI chatbots.
+- Studying how memory is encoded in the brain.
+- Investigating the basic principles of quantum computing.
 
-**Common Methods:** Interviews, focus groups, exploratory surveys.
+**Common Methods:**  Literature reviews, theoretical modeling, laboratory experiments.
+
+---
+
+## Applied Research
+
+**Used when:** The goal is to solve a specific, practical problem.
+
+### Strengths
+- Results are actionable and directly relevant to practice or policy.
+- Often interdisciplinary, integrating knowledge from different fields.
+- Supports innovation and impact.
+
+### Limitations
+- May be constrained by political, commercial, or time pressures.
+- Can prioritize short-term fixes over long-term understanding.
+- Results may not always be published or widely disseminated.
+
+### Real-World Applications
+- A hospital testing a new nurse scheduling algorithm to reduce staff burnout.
+- A city evaluating traffic sensors to improve road safety.
+
+**Common Methods:** Case studies, evaluations, needs assessments, feasibility studies.
 
 ---
 
@@ -92,14 +115,13 @@ Let’s now take a deeper look at each research type and how it plays out in pra
 
 ---
 
-## Explanatory (Causal) Research
+## Experimental (Causal) Research
 
-**Used when:** You need to test hypotheses about why something is happening.
+**Used when:** You want to test cause-and-effect relationships by manipulating variables.
 
 ### Strengths
-- Supports cause-and-effect conclusions.
-- Uses systematic, controlled methods to reduce bias.
-- Often highly rigorous.
+- Provides strong evidence for causality
+- Often highly systematic and replicable
 
 ### Limitations
 - Can be complex and time-intensive.
@@ -114,25 +136,44 @@ Let’s now take a deeper look at each research type and how it plays out in pra
 
 ---
 
-## Applied Research
+## Quantitative Research
 
-**Used when:** The goal is to solve a specific, practical problem.
+**Used when:** You want to measure variables and test hypotheses using numbers.
 
 ### Strengths
-- Results are actionable and directly relevant to practice or policy.
-- Often interdisciplinary, integrating knowledge from different fields.
-- Supports innovation and impact.
+- Enables statistical analysis and generalization.
+- Suits large-scale studies and trend analysis
 
 ### Limitations
-- May be constrained by political, commercial, or time pressures.
-- Can prioritize short-term fixes over long-term understanding.
-- Results may not always be published or widely disseminated.
+- May overlook context or nuance.
+- Can miss "why" behind the numbers
 
 ### Real-World Applications
-- A hospital testing a new nurse scheduling algorithm to reduce staff burnout.
-- A city evaluating traffic sensors to improve road safety.
 
-**Common Methods:** Case studies, evaluations, needs assessments, feasibility studies.
+- Measuring the number of app logins and correlating with mood scores.
+- Calculating percentage change in academic performance
+
+**Common Methods:** Surveys, experiments, correlational studies
+
+---
+
+## Qualitative Research
+
+**Used when:** You want to understand how people make sense of their experiences.
+
+### Strengths
+- Offers rich, contextual, in-depth insights.
+- Flexible and adaptive to new findings.
+
+### Limitations
+- Findings are harder to generalize.
+- Can be time-intensive to collect and analyze
+
+### Real-World Applications
+- Interviewing students about mental health stigma.
+- Analyzing social media posts related to stress
+
+**Common Methods:** Interviews, focus groups, ethnography, content analysis
 
 ---
 

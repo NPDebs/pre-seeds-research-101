@@ -109,7 +109,7 @@ Descriptive research helps to build a picture of a situation as it naturally occ
 #### Experimental Research
 
 This involves actively manipulating one variable to observe its effect on another.
-It answers: Does this cause that? What happens if we intervene?
+It answers: _Does this cause that? What happens if we intervene?_
 Experimental research is key when you want to establish cause and effect.
 
 - **Example**: Introducing a no-phone policy in some classes and comparing exam scores with classes that kept phones.

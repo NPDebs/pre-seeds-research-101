@@ -1,114 +1,144 @@
 ---
-title: "Using Markdown"
-teaching: 10
-exercises: 2
+title: "Welcome to Pre-seeds Research 101"
+teaching: 5
+exercises: 0
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using Markdown and `{sandpaper}`?
+- What is this course about?
+- Who is it for?
+- How can I get the most out of it?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with The Carpentries Workbench
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+- Get oriented with the course's tone and approach.
+- Understand who this course is designed for.
+- Feel excited and supported as you begin your learning journey.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Introduction
 
-This is a lesson created via The Carpentries Workbench. It is written in
-[Pandoc-flavored Markdown](https://pandoc.org/MANUAL.html) for static files and
-[R Markdown][r-markdown] for dynamic files that can render code into output. 
-Please refer to the [Introduction to The Carpentries 
-Workbench](https://carpentries.github.io/sandpaper-docs/) for full documentation.
+Welcome! 🎉
 
-What you need to know is that there are three sections required for a valid
-Carpentries lesson:
+We’re so glad you’re here. This course—**Pre-seeds (Research 101)**—is not your typical introduction to research. It's built for you: the curious, the hopeful, the hands-on learners who may not always see themselves in traditional research spaces but know they have something to contribute.
 
- 1. `questions` are displayed at the beginning of the episode to prime the
-    learner for the content.
- 2. `objectives` are the learning objectives for an episode displayed with
-    the questions.
- 3. `keypoints` are displayed at the end of the episode to reinforce the
-    objectives.
+Whether you're stepping into research for the first time or circling back with fresh eyes, you're in the right place.  
+
+This isn’t about throwing jargon at you or expecting you to "catch up." 
+We’ll take things step by step, building confidence and skills in a way that’s practical, inclusive, and deeply human. 
+Expect check-ins, relatable examples, and thoughtful pauses—not just facts.
+
+We believe research is for everyone, and that includes you!
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-Inline instructor notes can help inform instructors of timing challenges
-associated with the lessons. They appear in the "Instructor View"
+_Inline instructor notes can help inform instructors of timing challenges
+associated with the lessons. They appear in the "Instructor View"_
+
+This intro is intentionally lightweight—don’t rush through it! 
+Invite learners to reflect on their own relationship with research and learning. 
+Consider pausing to ask why they joined the course or what they’re hoping to walk away with.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-## Challenge 1: Can you do it?
+## Challenge 1:
 
-What is the output of this command?
+**Who is this course designed for?**
 
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
+A) Only people with a science degree
+
+B) Researchers at elite institutions
+
+C) Anyone curious about research, no matter their background
+
+D) People who already know everything
 
 :::::::::::::::::::::::: solution 
 
-## Output
- 
-```output
-[1] "This new lesson looks good"
-```
+**Answer:** C
+
+This course was built for anyone who’s curious about research, especially folks who may not come from traditional academic paths.
 
 :::::::::::::::::::::::::::::::::
 
+## Challenge 2: 
 
-## Challenge 2: how do you nest solutions within challenge blocks?
+**What kind of experience can you expect from this course?**
+
+A) Lots of memorisation and final exams
+
+B) Strict grading and formal lectures
+
+C) A practical, inclusive, step-by-step journey
+
+D) Pure chaos, honestly
 
 :::::::::::::::::::::::: solution 
 
-You can add a line with at least three colons and a `solution` tag.
+**Answer:** C
+
+We’re keeping things practical and human—this is a supportive space to explore and grow.
+
+:::::::::::::::::::::::::::::::::
+
+## Challenge 3: 
+
+**What makes you a researcher already?**
+
+According to the intro, which of the following might already make you a budding researcher?
+
+A) Asking good questions
+
+B) Looking for patterns
+
+C) Being curious about the world
+
+D) All of the above
+
+:::::::::::::::::::::::: solution 
+
+**Answer:** D
+
+Yep—if you’ve done any of these, you’ve already started thinking like a researcher!
 
 :::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Figures
 
-You can use standard markdown for static figures with the following syntax:
-
 `![optional caption that appears below the figure](figure url){alt='alt text for
 accessibility purposes'}`
 
-![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
-
 ::::::::::::::::::::::::::::::::::::: callout
 
-Callout sections can highlight information.
+### You don't need to be an expert
 
-They are sometimes used to emphasise particularly important points
-but are also used in some lessons to present "asides": 
-content that is not central to the narrative of the lesson,
-e.g. by providing the answer to a commonly-asked question.
+This course is designed assuming you have little to no formal research training. 
+If you’ve ever asked good questions, looked for patterns, or been curious about the world—congrats, you already have the beginnings of a researcher’s mind.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Just a heads-up
 
-## Math
+Throughout this course, you’ll find short challenges, real-world scenarios, and opportunities to apply what you’ve learned. 
+There’s no grading—just growth. 
 
-One of our episodes contains $\LaTeX$ equations when describing how to create
-dynamic reports with {knitr}, so we now use mathjax to describe this:
+Each module builds on the one before it, but you can always circle back or skip ahead if something calls to you. 
 
-`$\alpha = \dfrac{1}{(1 - \beta)^2}$` becomes: $\alpha = \dfrac{1}{(1 - \beta)^2}$
+So take a breath, settle in, and get ready to stretch your brain gently.
 
-Cool, right?
+You belong here. 💛
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Use `.md` files for episodes when you want static content
-- Use `.Rmd` files for episodes when you need to generate output
-- Run `sandpaper::check_lesson()` to identify any issues with your lesson
-- Run `sandpaper::build_lesson()` to preview your lesson locally
+- This course is beginner-friendly and community-rooted.
+- You don’t need a research background to get started.
+- Learning is nonlinear, and that’s okay.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
-
-[r-markdown]: https://rmarkdown.rstudio.com/

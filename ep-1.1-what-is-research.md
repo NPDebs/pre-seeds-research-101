@@ -14,6 +14,8 @@ exercises: 4
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
+Learners will be able to:
+
 - Define research in their own words, and how it stands apart from other ways of knowing (e.g. opinion, belief, or anecdote)
 - Identify the defining features (characteristics) of credible research.
 - List reasons for conducting research, and the importance of research in various contexts.

@@ -181,10 +181,12 @@ Let’s now take a deeper look at each research type and how it plays out in pra
 
 In the real world, many studies span multiple research types. Consider the case of the university’s mental health app:
 
-- **Exploratory**: To understand how students perceive mental health tools.
-- **Descriptive**: To map usage trends over time.
-- **Explanatory**: To determine whether the app improves wellbeing outcomes.
-- **Applied**: To support university decision-making about keeping or scaling the program.
+- **Basic:** Understanding psychological mechanisms behind stress
+- **Applied:** Designing and implementing the app
+- **Descriptive:** Tracking usage rates and stress reports
+- **Experimental:** Testing impact on mental health through a controlled study
+- **Quantitative:** Measuring shifts in mood using survey scales
+- **Qualitative:** Interviewing users about their experiences
 
 This is where **mixed methods** come in—combining qualitative depth with quantitative breadth for a fuller picture.
 
@@ -196,12 +198,13 @@ Different academic and professional fields tend to favor different types of rese
 
 | Discipline     | Typical Research Type | Sample Topic |
 |----------------|------------------------|--------------|
-| Public Health  | Explanatory            | Does access to clean water reduce child mortality? |
-| Education      | Descriptive            | What teaching strategies are used in rural classrooms? |
-| Engineering    | Applied                | How can solar energy be optimized for off-grid homes? |
-| Sociology      | Exploratory            | How do young people define identity in online spaces? |
+| Public Health  | Applied, Qualitative, Descriptive            | Are health interventions reaching target populations? |
+| Education      | Descriptive, Qualitative            | What do students report as barriers to learning? |
+| Engineering    | Applied, Experimental                | How efficient is a new solar energy prototype? |
+| Psychology      | Basic, Experimental, Quantitative            | What are the cognitive effects of screen time? |
+| Sociology      | Qualitative             | How do young people define identity in online spaces? |
 
-Understanding the preferred types of research in a discipline can guide collaboration, funding, and dissemination strategies.
+Understanding the types of research favored in a field can help you collaborate more effectively, apply for grants, and interpret findings with nuance.
 
 ## Test Your Knowledge!
 
@@ -215,11 +218,11 @@ Which research types could apply?
 
 :::::::::::::::::::::::: solution
 
-All of them! 
-- **Descriptive**: Collect data on how many students are receiving meals.
-- **Exploratory**: Conduct interviews or focus groups with students, teachers, and parents to gather insights about how the meal program might be influencing student well-being and engagement.
-- **Explanatory**: Analyze test scores before and after the program to see if there's an academic impact.
-- **Applied**: Evaluate whether the program should be expanded based on findings.
+- **Experimental:** Randomly assign some schools to receive the meal program and others not to, then compare performance outcomes between the two groups.
+- **Applied:** Evaluate the effectiveness of the current program and offer policy recommendations on whether it should be expanded or revised.
+- **Descriptive:** Collect data on how many students are receiving meals.
+- **Quantitative:**  Conduct interviews or focus groups with students, parents, and teachers to explore how the meal program affects learning, focus, and well-being.
+- **Qualitative:** Evaluate whether the program should be expanded based on findings.
 
 ::::::::::::::::::::::::::::::::::::::::
 
@@ -227,8 +230,8 @@ All of them!
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Each research type—exploratory, descriptive, explanatory, applied—has distinct strengths and limitations.
-- The best research designs often combine multiple approaches to answer complex questions.
+- Each type of research—basic, applied, descriptive, experimental, qualitative, and quantitative—has unique strengths and limitations.
+- Complex problems benefit from mixed methods that draw on multiple types.
 - Being intentional about research type improves clarity, coherence, and usefulness of findings.
 - Different disciplines apply research types in different ways, tailored to their questions and practices.
 

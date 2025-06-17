@@ -1,0 +1,90 @@
+#------------------------------------------------------------
+# Values for this lesson.
+#------------------------------------------------------------
+
+# Which carpentry is this (swc, dc, lc, or cp)?
+# swc: Software Carpentry
+# dc: Data Carpentry
+# lc: Library Carpentry
+# cp: Carpentries (to use for instructor training for instance)
+# incubator: The Carpentries Incubator
+# 
+# This option supports custom types so lessons can be branded
+# and themed with your own logo and alt-text (see `carpentry_description`)
+# See https://carpentries.github.io/sandpaper-docs/editing.html#adding-a-custom-logo
+carpentry: 'incubator'
+
+# Alt-text description of the lesson.
+carpentry_description: 'Pre-seeds is a beginner course designed to equip aspiring researchers with the foundational knowledge, skills and tools to embark on their journey.'
+
+# Overall title for pages.
+title: 'Pre-seeds (Research 101) lesson'
+
+# Date the lesson was created (YYYY-MM-DD, this is empty by default)
+created: 2025-03-27
+
+# Comma-separated list of keywords for the lesson
+keywords: 'research, data, lesson, The Carpentries' # FIXME
+
+# Life cycle stage of the lesson
+# possible values: pre-alpha, alpha, beta, stable
+life_cycle: 'pre-alpha' # FIXME
+
+# License of the lesson
+license: 'CC-BY 4.0'
+
+# Link to the source repository for this lesson
+source: 'https://github.com/NPDebs/pre-seeds-research-101'
+
+# Default branch of your lesson
+branch: 'main'
+
+# Who to contact if there are any issues
+contact: 'deborahudoh02@gmail.com'
+
+# Navigation ------------------------------------------------
+#
+# Use the following menu items to specify the order of
+# individual pages in each dropdown section. Leave blank to
+# include all pages in the folder.
+#
+# Example -------------
+#
+# episodes:
+# - introduction.md
+# - first-steps.md
+#
+# learners:
+# - setup.md
+#
+# instructors:
+# - instructor-notes.md
+#
+# profiles:
+# - one-learner.md
+# - another-learner.md
+
+# Order of episodes in your lesson
+episodes: 
+# - introduction.md
+- ep-1.1-what-is-research.md
+- ep-1.2-the-research-process.md
+- ep-1.3-types-of-research.md
+- ep-1.4-types-of-research.md
+- ep-1.5-strengths-limitations-application.md
+
+# Information for Learners
+learners: 
+
+# Information for Instructors
+instructors: 
+
+# Learner Profiles
+profiles: 
+
+# Customisation ---------------------------------------------
+#
+# This space below is where custom yaml items (e.g. pinning
+# sandpaper and varnish versions) should live
+
+

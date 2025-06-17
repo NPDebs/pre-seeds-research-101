@@ -40,77 +40,35 @@ In the previous episode, we introduced four common **types of research**, often 
 
 | Type           | Goal                                        |
 |----------------|---------------------------------------------|
-| Exploratory    | Investigate new or poorly understood issues |
-| Descriptive    | Offer detailed accounts of what exists |
-| Explanatory    | Uncover cause-and-effect relationships |
+| Baic           | Expand fundamental knowledge without immediate use|
 | Applied        | Address real-world problems directly |
+| Descriptive    | Document or quantify what is happening |
+| Experimental   | Test cause-and-effect relationships |
+| Qualitative    | Understand experiences, meanings, context |
+| Quantitative	 | Measure variables using numerical data |
 
-These types often make use of **qualitative**, **quantitative**, or **mixed methods**, depending on the nature of the research question.
+These types can work independently or in combination, depending on the research question.
 
 Let’s now take a deeper look at each research type and how it plays out in practice.
 
-## Exploratory Research
+## Basic Research
 
-**Used when:** The problem or phenomenon is not well understood and needs preliminary investigation.
+**Used when:**  You want to understand how things work at a fundamental level.
 
 ### Strengths
-- Flexible and open-ended.
-- Useful for identifying patterns, generating hypotheses, and defining new problems.
-- Ideal for new or emerging topics.
+- Builds foundational knowledge and theories.
+- Often leads to future innovation and discovery.
 
 ### Limitations
-- Often lacks structure, making it hard to replicate.
-- Findings may not be generalizable.
+- May not have immediate application.
+- Hard to justify in applied or results-driven environments.
 - Results tend to be tentative and may not lead to actionable conclusions on their own.
 
 ### Real-World Applications
-- A nonprofit exploring why adolescents in rural areas avoid health clinics.
-- A tech company conducting focus groups to understand public attitudes toward AI chatbots.
+- Studying how memory is encoded in the brain.
+- Investigating the basic principles of quantum computing.
 
-**Common Methods:** Interviews, focus groups, exploratory surveys.
-
----
-
-## Descriptive Research
-
-**Used when:** You want to document or quantify what is currently happening.
-
-### Strengths
-- Helps build a foundational understanding of populations or phenomena.
-- Supports policy-making and planning with concrete data.
-- Often large-scale and generalizable.
-
-### Limitations
-- Does not explore causes or explanations.
-- Can be misleading if poorly designed or biased in data collection.
-
-### Real-World Applications
-- A national census on employment trends across industries.
-- A school district tracking student attendance and engagement.
-
-**Common Methods:** Observational studies, cross-sectional surveys, routine data audits.
-
----
-
-## Explanatory (Causal) Research
-
-**Used when:** You need to test hypotheses about why something is happening.
-
-### Strengths
-- Supports cause-and-effect conclusions.
-- Uses systematic, controlled methods to reduce bias.
-- Often highly rigorous.
-
-### Limitations
-- Can be complex and time-intensive.
-- May require ethical safeguards, especially in experiments.
-- Difficult to fully control variables in real-life settings.
-
-### Real-World Applications
-- A clinical trial testing whether a new vaccine reduces infection rates.
-- A randomized controlled study on whether gamified lessons improve student retention.
-
-**Common Methods:** Experiments, longitudinal studies, regression modeling.
+**Common Methods:**  Literature reviews, theoretical modeling, laboratory experiments.
 
 ---
 
@@ -136,14 +94,99 @@ Let’s now take a deeper look at each research type and how it plays out in pra
 
 ---
 
+## Descriptive Research
+
+**Used when:** You want to document or quantify what is currently happening.
+
+### Strengths
+- Helps build a foundational understanding of populations or phenomena.
+- Supports policy-making and planning with concrete data.
+- Often large-scale and generalizable.
+
+### Limitations
+- Does not explore causes or explanations.
+- Can be misleading if poorly designed or biased in data collection.
+
+### Real-World Applications
+- A national census on employment trends across industries.
+- A school district tracking student attendance and engagement.
+
+**Common Methods:** Observational studies, cross-sectional surveys, routine data audits.
+
+---
+
+## Experimental (Causal) Research
+
+**Used when:** You want to test cause-and-effect relationships by manipulating variables.
+
+### Strengths
+- Provides strong evidence for causality
+- Often highly systematic and replicable
+
+### Limitations
+- Can be complex and time-intensive.
+- May require ethical safeguards, especially in experiments.
+- Difficult to fully control variables in real-life settings.
+
+### Real-World Applications
+- A clinical trial testing whether a new vaccine reduces infection rates.
+- A randomized controlled study on whether gamified lessons improve student retention.
+
+**Common Methods:** Experiments, longitudinal studies, regression modeling.
+
+---
+
+## Quantitative Research
+
+**Used when:** You want to measure variables and test hypotheses using numbers.
+
+### Strengths
+- Enables statistical analysis and generalization.
+- Suits large-scale studies and trend analysis
+
+### Limitations
+- May overlook context or nuance.
+- Can miss "why" behind the numbers
+
+### Real-World Applications
+
+- Measuring the number of app logins and correlating with mood scores.
+- Calculating percentage change in academic performance
+
+**Common Methods:** Surveys, experiments, correlational studies
+
+---
+
+## Qualitative Research
+
+**Used when:** You want to understand how people make sense of their experiences.
+
+### Strengths
+- Offers rich, contextual, in-depth insights.
+- Flexible and adaptive to new findings.
+
+### Limitations
+- Findings are harder to generalize.
+- Can be time-intensive to collect and analyze
+
+### Real-World Applications
+- Interviewing students about mental health stigma.
+- Analyzing social media posts related to stress
+
+**Common Methods:** Interviews, focus groups, ethnography, content analysis
+
+---
+
 ## When One Type Isn't Enough
 
 In the real world, many studies span multiple research types. Consider the case of the university’s mental health app:
 
-- **Exploratory**: To understand how students perceive mental health tools.
-- **Descriptive**: To map usage trends over time.
-- **Explanatory**: To determine whether the app improves wellbeing outcomes.
-- **Applied**: To support university decision-making about keeping or scaling the program.
+- **Basic:** Understanding psychological mechanisms behind stress
+- **Applied:** Designing and implementing the app
+- **Descriptive:** Tracking usage rates and stress reports
+- **Experimental:** Testing impact on mental health through a controlled study
+- **Quantitative:** Measuring shifts in mood using survey scales
+- **Qualitative:** Interviewing users about their experiences
 
 This is where **mixed methods** come in—combining qualitative depth with quantitative breadth for a fuller picture.
 
@@ -155,12 +198,13 @@ Different academic and professional fields tend to favor different types of rese
 
 | Discipline     | Typical Research Type | Sample Topic |
 |----------------|------------------------|--------------|
-| Public Health  | Explanatory            | Does access to clean water reduce child mortality? |
-| Education      | Descriptive            | What teaching strategies are used in rural classrooms? |
-| Engineering    | Applied                | How can solar energy be optimized for off-grid homes? |
-| Sociology      | Exploratory            | How do young people define identity in online spaces? |
+| Public Health  | Applied, Qualitative, Descriptive            | Are health interventions reaching target populations? |
+| Education      | Descriptive, Qualitative            | What do students report as barriers to learning? |
+| Engineering    | Applied, Experimental                | How efficient is a new solar energy prototype? |
+| Psychology      | Basic, Experimental, Quantitative            | What are the cognitive effects of screen time? |
+| Sociology      | Qualitative             | How do young people define identity in online spaces? |
 
-Understanding the preferred types of research in a discipline can guide collaboration, funding, and dissemination strategies.
+Understanding the types of research favored in a field can help you collaborate more effectively, apply for grants, and interpret findings with nuance.
 
 ## Test Your Knowledge!
 
@@ -174,11 +218,11 @@ Which research types could apply?
 
 :::::::::::::::::::::::: solution
 
-All of them! 
-- **Descriptive**: Collect data on how many students are receiving meals.
-- **Exploratory**: Conduct interviews or focus groups with students, teachers, and parents to gather insights about how the meal program might be influencing student well-being and engagement.
-- **Explanatory**: Analyze test scores before and after the program to see if there's an academic impact.
-- **Applied**: Evaluate whether the program should be expanded based on findings.
+- **Experimental:** Randomly assign some schools to receive the meal program and others not to, then compare performance outcomes between the two groups.
+- **Applied:** Evaluate the effectiveness of the current program and offer policy recommendations on whether it should be expanded or revised.
+- **Descriptive:** Collect data on how many students are receiving meals.
+- **Quantitative:**  Conduct interviews or focus groups with students, parents, and teachers to explore how the meal program affects learning, focus, and well-being.
+- **Qualitative:** Evaluate whether the program should be expanded based on findings.
 
 ::::::::::::::::::::::::::::::::::::::::
 
@@ -186,8 +230,8 @@ All of them!
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Each research type—exploratory, descriptive, explanatory, applied—has distinct strengths and limitations.
-- The best research designs often combine multiple approaches to answer complex questions.
+- Each type of research—basic, applied, descriptive, experimental, qualitative, and quantitative—has unique strengths and limitations.
+- Complex problems benefit from mixed methods that draw on multiple types.
 - Being intentional about research type improves clarity, coherence, and usefulness of findings.
 - Different disciplines apply research types in different ways, tailored to their questions and practices.
 

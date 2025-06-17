@@ -41,7 +41,7 @@ Now imagine five different researchers trying to answer this question, each with
 Are all of these research? Yes.  
 Are they all the same type of research? Not quite.
  
-This episode explores the **various pathways of research**, each tailored to a particular kind of question, context, or goal. 
+This episode explores several popular pathways of research, each tailored to a particular kind of question, context, or goal. While not an exhaustive list, these are among the most commonly used types. 
 You'll learn how different kinds of research give us different kinds of answers.
 
 ## How do we categorise research?

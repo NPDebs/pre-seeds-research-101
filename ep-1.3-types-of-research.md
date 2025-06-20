@@ -56,35 +56,35 @@ In this episode, we step back to see the *whole* classification map before zoomi
 
 ## A Closer Look at Our Categories
 
-### 1&nbsp;—&nbsp;Purpose  
+### 1. Purpose  
 - **Basic** research asks fundamental “how or why” questions (e.g. *How does attention work?*).  
 - **Applied** research seeks direct solutions (e.g. *Will locking phone pouches improve grades?*).
 
-### 2&nbsp;—&nbsp;Methodology  
+### 2. Methodology  
 - **Quantitative**: counts phone glances per lecture.  
 - **Qualitative**: interviews students about distraction.  
 - **Mixed**: does both to get numbers **and** narratives.
 
-### 3&nbsp;—&nbsp;Design  
+### 3. Design  
 - **Descriptive**: records *what* happens.  
 - **Correlational**: checks if phone use relates to low marks.  
 - **Experimental**: randomly assigns half the class to “no-phone” rules.
 
 *(We will unpack each design in Episodes 1.4 and 1.5.)*
 
-### 4&nbsp;—&nbsp;Goal  
+### 4. Goal  
 - **Exploratory** work might map *new* distraction patterns.  
 - **Explanatory** work tests whether boredom *causes* phone use.
 
-### 5&nbsp;—&nbsp;Focus  
+### 5. Focus  
 - A **theoretical** paper could model digital distraction behaviour;  
 - while an **empirical** study would test that model in real lectures.
 
-### 6&nbsp;—&nbsp;Timeframe  
+### 6. Timeframe  
 - **Cross-sectional**: a one-off survey this semester.  
 - **Longitudinal**: tracking the same cohort for four years.
 
-### 7&nbsp;—&nbsp;Data Source  
+### 7. Data Source  
 - **Primary**: your own classroom observations.  
 - **Secondary**: institutional attendance records from past years.
 
@@ -92,6 +92,7 @@ In this episode, we step back to see the *whole* classification map before zoomi
 :::::::::::::::::::::::::::::::::::::::: challenge
 
 ### Challenge 1   
+
 A research team videotapes every lecture of a single course for one term and counts phone-checking events each week.  
 Which two classification labels (from different criteria) fit best?
 

@@ -255,6 +255,7 @@ B.
 ## Challenge 3:
 
 You are analysing data from interviews and discover a new theme that you hadn’t anticipated in your original hypothesis. What is the most appropriate next step?
+
 - A. Ignore the theme to stick to your hypothesis
 - B. Revise your research framework to include the new theme
 - C. Change your research design retroactively
@@ -299,6 +300,7 @@ A researcher presents findings at a public health conference, receives critical 
 ## Challenge 6: 
 
 Which of the following best describes the primary goal of the "Evaluate and Reflect" stage in research?
+
 - A. To formulate a hypothesis for the next study
 - B. To interpret statistical results
 - C. To identify strengths, weaknesses, and opportunities for improvement
@@ -326,8 +328,7 @@ The research process is always linear and should not be revisited once a phase i
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-Inline instructor notes can help inform instructors of timing challenges
-associated with the lessons. They appear in the "Instructor View"
+Inline instructor notes...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

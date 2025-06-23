@@ -91,7 +91,7 @@ We’re keeping things practical and human—this is a supportive space to explo
 
 **What makes you a researcher already?**
 
-According to the intro, which of the following might already make you a budding researcher?
+**Which of the following might already make you a budding researcher?**
 
 A) Asking good questions
 

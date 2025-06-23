@@ -89,7 +89,6 @@ We’re keeping things practical and human—this is a supportive space to explo
 
 ## Challenge 3: 
 
-**What makes you a researcher already?**
 
 **Which of the following might already make you a budding researcher?**
 

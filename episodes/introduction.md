@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Pre-seeds Research 101"
+title: "Welcome to Pre-seeds (Research 101)!"
 teaching: 5
 exercises: 0
 ---

@@ -44,7 +44,7 @@ Are they all the same type of research? Not quite.
 This episode explores several popular pathways of research, each tailored to a particular kind of question, context, or goal. While not an exhaustive list, these are among the most commonly used types. 
 You'll learn how different kinds of research give us different kinds of answers.
 
-## How do we categorise research?
+## What are the types of Research?
 There's more than one way to slice the research pie. But most research falls into one or more of the broad categories below:
 
 ### 1. Basic vs. Applied Research

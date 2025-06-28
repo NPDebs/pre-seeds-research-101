@@ -1,12 +1,12 @@
 ---
-title: "Strengths, limitations, and applications in various disciplines"
+title: "Module 2: Formulating Research Questions"
 teaching: 10
 exercises: 2
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- What are the strengths and limitations of these research type?
+- 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 

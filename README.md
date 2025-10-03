@@ -24,6 +24,9 @@ It started as a beginner course designed to equip **aspiring researchers** with 
 ## Roadmap
 See our [roadmap](roadmap.md) for more details.
 
+## Documentation Archive
+Find all documentations from all working groups and ongoing activities [here.](https://docs.google.com/document/d/1OnXutYPJ6ZYPKj3MviU0IL0cAvmHmabTQcAd12VJpUU/edit?usp=sharing)
+
 ## How You Can Contribute
 We believe in the power of collaboration and invite you to join us in shaping this program. To find out how you can get involved, read our [CONTRIBUTING.md](CONTRIBUTING.md) file.
 

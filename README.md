@@ -27,6 +27,9 @@ See our [roadmap](roadmap.md) for more details.
 ## How You Can Contribute
 We believe in the power of collaboration and invite you to join us in shaping this program. To find out how you can get involved, read our [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
+## Documentaion Archive
+For quick access to all of our documentations, please navigate to the Documentation Archive [tab.](https://docs.google.com/document/d/1DKYdMMsbC6sbw02CB4ZMOhNPiQp6Rx6iwKMlDhCJ9NA/edit?usp=drivesdk)
+
 ## Contributors
 
 - Deborah Udoh - [@npdebs](https://github.com/NPDebs).

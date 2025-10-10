@@ -37,6 +37,7 @@ For quick access to all of our documentations, please navigate to the [Documenta
 - Joy Udoh - [@Udoh-Joy](https://github.com/Udoh-Joy).
 - Peace Udoh - [@Peace01-sudo](https://github.com/Peace01-sudo).
 - Bhogal Jyoti
+- Harmony Elendu - [@harmonyelendu](https://github.com/harmonyelendu).
 
 ## Contact
 

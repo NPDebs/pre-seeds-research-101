@@ -1,0 +1,98 @@
+body{
+    width: 100%;
+}
+.section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    background-color: #170E3A;
+    
+}
+.sec1{
+    display: flex;
+    padding: 8rem;
+    height: 10%;
+    width: 100%;
+    box-sizing: border-box;
+    
+}
+.secparagraph{
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 64px; 
+    width: 57rem;
+    color: white;
+    font-family: Avenir;
+    
+}
+.seclogo{
+    width: 3.75rem;
+    height: 3.70rem;
+}
+.section2{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 67rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+.sec2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    font-size: 64;
+    font-weight: medium;
+    color: #170E3A;
+    font-family: Avenir;
+    text-align: center;
+    align-items: center;
+   
+}
+article{
+    display: flex;
+    gap: 24px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.box-img{
+    width: 3.75rem;
+    height: 3.70rem;
+}
+.text-white{
+    color: #FFF;
+}
+.boxes{
+    display: flex;
+    width: 40rem;
+    height: 20rem;
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+}
+p{
+    font-size: 64px
+}
+.cover{
+    width: 100%;
+}
+.bag{
+    width: 100%;
+}
+.sec5{
+    padding: 12rem;
+    display: flex;
+    justify-content: center;
+
+}
+.sec5logo{
+    width: 3.75rem;
+    height: 3.70rem;
+    margin-right: 4.41rem;   
+}

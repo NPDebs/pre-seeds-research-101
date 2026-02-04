@@ -1,0 +1,87 @@
+.footer{
+    padding: 2rem 0;
+    display: flex;
+    justify-content: space-between;
+    height: 48.75rem;
+    background-color: #e4e3ec;
+}
+.footer-left {
+    display: flex;
+    flex-direction: column;
+    margin-left: 4rem;
+    gap: 60%;
+}
+.footer-text h3{
+    font-size: 24px;
+    font-family: Avenir;
+    font-weight: bold;
+    width: 20rem;
+    line-height: 3rem;
+}
+.footer-text p{
+    font-size: 18px;
+    width: 26.7rem;
+}
+.footer-text p a{
+    color: #7000FF;
+    font-weight: 400;
+}
+.license{
+    display: flex;
+    gap: 0.5rem;
+}
+.license-icon{
+    position: relative;
+    margin-top: 1rem;
+    width: 32px;
+    height: 32px;
+}
+.footer-right{
+    display: flex;
+    flex-direction: column;
+    margin-right: 4rem;
+    gap: 48%;
+    align-items: flex-end;
+    text-align: right;
+}
+.starting h6{
+    color: #454545 !important;
+    font-size: 16px;
+    font-family: Avenir;
+}
+.license p{
+    font-size: 18px;
+    font-family: Avenir;
+}
+.footer-links{
+    display: flex;
+    flex-direction: column;
+    color: black;
+    gap: 1rem;
+    font-size: 18px;
+    font-family: Avenir;
+    
+}
+.footer-links a{
+    color: black;
+    font-weight: 500;
+}
+.footer-icons{
+    display: flex;
+    gap: 1.5rem;
+    
+}
+.footer-icons a{
+    color: black;
+}
+.instagram-icon{
+    width: 6rem;
+    height: 2rem;
+}
+.footer-icon {
+    color: black;
+    position: relative;
+    width: 22.83px;
+    height: 23.33px;
+    
+}

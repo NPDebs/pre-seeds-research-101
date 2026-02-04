@@ -1,0 +1,184 @@
+body{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+.homesec1{
+    margin-left: 7rem;
+    display: flex;
+    justify-content: space-between;
+    gap: 0;
+
+    
+}
+.secleft{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.home-img{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    width: 47rem;
+    max-width: 50rem;
+    min-width: 15rem;
+    height: 60rem;
+    align-self: flex-end;
+    margin-top: -9rem;
+    z-index: 1;
+    object-fit: contain;
+}
+
+h2{
+    font-size: 48px;
+    width: 30.5rem;
+    height: 32rem;
+    font-family: Avenir;
+}
+.secbottomp{
+    font-size: 18px;
+    font-family: Avenir;
+    margin-top: -4rem;
+    height: 7rem;
+    width: 27rem;
+}
+.secleftbutton{
+    display: flex;
+    margin-top: 2.5rem;
+    gap: 8px;
+    
+}
+.buttons{
+    background-color: #7000FF;
+    text-align: center;
+    border-radius: 40px;
+    width: 13.6rem;
+    height: 3.2rem;
+    color: white;
+}
+.joinbtn{
+    background-color: white;
+    color: black;
+    border: solid 1px;
+}
+.homesec2{
+    height: 42.5rem;
+    background-color: #170E3A;
+    
+}
+.homesec3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    background-color: #e4e3ec
+}
+.sec3header{
+    margin-top: 3rem;
+    display: flex;
+
+}
+.sec3header h3{
+    font-size: 40px;
+    font-family: Avenir;
+    width: 48.5rem;
+    color: #454551;
+}
+.sec3header p{
+    font-size: 18px;
+    font-family: Avenir;
+    width: 30rem;
+    margin-top: 3.5rem;
+}
+.sec3boxes{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    margin-top: 3rem;
+    
+}
+.homeboxes{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 25.7rem;
+    height: 20rem;
+    background-color: #F8F8F8;
+    border-radius: 24px;
+}
+h4{
+    font-size: 24px;
+    font-family: Avenir;
+    font-weight: medium;
+    margin-left: 1rem;
+    width: 20.5rem;
+}
+.homeboxes p{
+    font-size: 18px;
+    font-family: Avenir;
+    margin-left: 1rem;
+    width: 20.5rem;
+}
+.homeboxicons{
+    width: 3.75rem;
+    height: 3.75rem;
+    align-self: flex-end;
+    position: relative;
+    top: 1.5rem;
+    right: 1.5rem;
+}
+.homesec4{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 2rem 1rem;
+    box-sizing: border-box;
+    background-color: #e4e3ec;
+}
+.homesec4-bg{
+    width: min(90%, 1200px);
+    background: transparent;
+    border-radius: 24px;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+}
+.homesec4-img{
+    display: block;
+    width: 80rem;
+    height: 120rem;
+    object-fit: contain;
+    object-position: center;
+    border: none;
+    border-radius: 24px;
+}
+.homesec4-text{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    margin: 0;
+    color: #ffff;
+    padding: 1rem 2rem;
+    width: 30rem;
+    font-size: 48px;
+    font-family: Avenir;
+    text-align: center;
+}
+.homesec4-text a{
+    text-decoration: underline;
+    color: #FFD362;
+    font-weight: medium;
+    font-family: Avenir;
+    font-size: 48px;
+    cursor: pointer;
+}

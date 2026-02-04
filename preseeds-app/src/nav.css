@@ -1,0 +1,52 @@
+.navigation{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 124px;
+    width: 100%;
+    justify-content: space-between;
+    gap: 0;
+    
+}
+.navlinks{
+    display: flex;
+    gap: 2rem;
+    justify-content: flex-end;
+    margin-left: auto;
+    opacity: 1;
+    font-size: 16px;
+    font-family: Avenir;
+    font-weight: 400;
+    margin-right: 2rem;
+
+}
+h4{ 
+    font-size: 28px;
+    font-family: Avenir;
+    font-weight: medium;
+}
+.nav-icon{
+    height: 44px;
+    width: 44px;
+    position: relative;
+    margin-top: 2rem;
+
+}
+.icon-nav{
+    gap: 0.7rem;
+    display: flex;
+    margin-left: 7rem;
+    z-index: 3;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    z-index: 3;
+  
+}
+.nav-arrow{
+    color: white;
+    z-index: 3;
+    margin-top: 0.2rem;
+}

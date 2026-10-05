@@ -104,7 +104,7 @@ Research figures are made for careful reading. Slides are seen for seconds. So a
 Back to Aisha: her 50-by-12 table becomes a single, simple bar chart comparing repeat malaria across good, fair, and poor sanitation homes. 
 The title says what to see, one bar is highlighted, and "N = 50 homes" sits in the corner. The full table waits in a backup slide.
 
-_To-do: Add a before-and-after slide infographic hier._
+_To-do: Add a before-and-after slide infographic here._
 
 ### Images, video, and other media
 

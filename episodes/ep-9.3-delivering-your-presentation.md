@@ -65,3 +65,62 @@ Nearly everyone feels nervous before presenting, including experienced researche
 Plan your first and last 30 seconds. Open with something that makes people curious, such as a short story, a surprising fact, or a question. Close not with a bare summary but with the **implication**: what your findings mean and what you'd like your audience to do (the call to action).
 
 ## Part 2: Delivering Live
+
+Whether you're in a lecture hall or under a mango tree, the craft of speaking has a lot in common. The following tips are helpful tips to keep in mind:
+
+- **Vary your pace.** Slow down for the ideas that matter and speed through familiar details. A predictable rhythm lulls listeners while a varied one holds them. Use **pauses** deliberately, as a breath for the audience as well as for you.
+- **Give new ideas extra time.** To you, your study is familiar, but to the audience, it's brand new. When you reach a fresh or tricky idea, slow down and say it clearly.
+- **Let your enthusiasm show.** Interest is contagious. Let your love for the sibject matter shine through in your presentation.
+- **Ask rhetorical questions, tell stories, and add a small surprise.** A question followed by a pause makes people think. Short stories, metaphors, and everyday comparisons make ideas stick, and an unexpected fact keeps people on their toes.
+- **Lead your slides; don't let them lead you.** Say your point *before* you click to the next slide. If you advance first, the audience might read ahead and stop listening.
+- **Use your whole voice and body.** Avoid a monotone, make eye contact with different parts of the room, and use gestures that support your words rather than distract from them.
+
+### A note on informal settings
+
+At Aisha's community meeting, the rules of delivery stretch rather than disappear. She would speak in the language people use daily, greet the room in line with local custom, keep her tone conversational, and invite reactions as she goes. Informal audiences often respond out loud, which is good: it tells you immediately what's landing and what isn't.
+
+## Part 3: Delivering Across Modes
+
+### Live online (virtual)
+
+Presenting through a screen removes much of the feedback you'd get from faces and body language, so you may have to work harder to stay connected.
+
+- **Look at the camera**, not at your own picture, and place it near eye level.
+- **Protect your audio.** Poor sound loses an audience much like a plain slide. Use a headset if you can, mute notifications, and find a quiet spot.
+- **Tell people how to take part** (chat, raised hand, or at the end?), check in at planned points, and use short polls to see what people know. Then **wait longer than feels comfortable** for answers.
+- **Agree on cameras.** In a small group, cameras on boosts interaction; in a large one, cameras off reduces lag, especially in low connectivity settings.
+- **Plan for weak connections.** Share slides ahead of time, and send large videos in advance rather than streaming them.
+- **Recruit a co-host** or "helper" for larger sessions, to watch the chat and run polls.
+
+### Hybrid
+
+In a hybrid session, your audience is in two places at once, and the risk is that one group gets overlooked (left out?). A few habits help both feel included:
+
+- **Welcome both audiences** at the start and say how each can take part.
+- **Alternate your gaze** between the room and the camera.
+- **Repeat every question** before answering. Online viewers can't hear the back of the room, and the room can't hear a typed question.
+- **Use a "voice of the chat":** a colleague who reads online questions aloud to the room.
+- **Give online participants extra time**, and sometimes let them speak first.
+- **Check your slides on a small screen**, since text that works on a projector can vanish in a streaming window.
+
+### Recorded and on-demand
+
+Recording gives you an advantage live talks rarely do - the opportunity to try again. But this comes at the cost of losing the audience's presence.
+
+- **Speak to one person.** Imagine a single colleague watching and speak to the lens as if to them.
+- **Bring extra energy.** Recorded voices can sound flat, so let a little more melody into yours.
+- **Keep it short and state your headline early.** Viewers can leave at any moment.
+- **Check the sound before the picture.** Record a short test and play it back on your phone.
+- **Provide a way to respond.** Since you can't take live questions, add an email address, comment thread, or form, and then actually reply.
+
+:::::::::::::::::::::::::::::::::::::: callout
+
+### 💡 Three habits that work in every mode
+
+1. **Say how people can take part** (questions, chat, hands, or after the talk).
+2. **Repeat each question** so everyone knows what is being answered.
+3. **Test your tools** before the audience arrives, and keep a backup plan.
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Part 4: 

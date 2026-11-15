@@ -123,4 +123,55 @@ Recording gives you an advantage live talks rarely do - the opportunity to try a
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Part 4: 
+## Part 4: Making the Audience Part of It
+
+Not every presentation is a talk. In some, the audience does as much of the work as you do.
+
+### Workshops and teaching sessions
+
+A workshop is an informal, two-way format in which participants *do* things. A well-loved structure is to give a short piece of input, then an activity, then a short discussion, repeating the cycle as needed. One simple tool is **think-pair-share**: ask a question, let everyone think quietly for a minute, have them discuss with a neighbour (or in an online breakout room), and then invite a few to share with the whole group. It works with any group size, needs no technology, and gives quieter people time to think before they speak.
+
+Another good move is to ask the audience to **make a prediction** before you reveal a result. Aisha could ask: "Which homes do you think had more malaria?" and let people discuss before showing her chart. People remember answers better when they've committed to a guess first.
+
+### Seminars and webinars
+
+These are usually more formal and speaker-led, with questions at the end. Thank the organisers and chair, state any conflicts of interest after your title slide, and arrange for useful links to be pasted into the chat for online viewers. A long talk paired with a few minutes of Q&A at the end may feel passive. So, consider punctuating it with a poll or a pair discussion.
+
+### Poster sessions
+
+A poster session is a live, two-way conversation, and what you say beside your poster matters as much as the poster. Prepare a **poster pitch** of about a minute (the headline, the story, and one invitation such as "Does this match what you've seen?") and a **longer version** for visitors who stay. Greet people and ask what brought them over, to better understand their interest. Treat their comments as a gift especially because a poster session is often a good chance to get feedback before publication.
+
+To practise, try a role-play in the spirit of activities used to prepare student researchers for poster sessions. One partner presents while the other plays a different visitor each round: curious but from another field, in a hurry, sceptical, or silently reading. Swap and compare notes.
+
+### Lightning talks and pitches
+
+A three- or five-minute lightning talk should not a long talk run at double speed. Choose **one** idea, open with your hook, and spend your time on the headline and its evidence. Also prepare a *very short* pitch of your work (what you'd say in a corridor) alongside a longer one, so you're ready for whatever chance comes up.
+
+## Part 5: Answering Questions and Receiving Feedback
+
+Questions are not an exam at the end of your talk, but are an indication that someone was listening, and they're a chance to learn from people who see your work with fresh eyes.
+
+### Listening is half of presenting
+
+Active listening means giving the questioner your full attention, letting them finish, and trying to hear what they really want to know. Resist the urge to plan your whole answer while they're still speaking.
+
+### Consider these recommendations for each question
+
+1. **Listen** all the way through without interrupting.
+2. **Pause.** Take a breath. This gives you time to think and lets the rest of the audience absorb the question.
+3. **Repeat or rephrase** the question for everyone, in the room and online. It confirms you heard and understood, buys thinking time, and helps you articulate responses better.
+4. **Answer briefly and honestly:** Start by looking at the person who asked, then widen your gaze to include everyone. Long answers tend to lose people.
+5. **Move on, or offer to continue afterwards** if the question needs a longer conversation.
+
+### Opening the floor
+
+Instead of "Any questions?", try "What questions do you have?" or "What can I clarify for you?" This phrasing assumes questions exist and is easier to answer. If the room is quiet, give people a minute to think or even talk with a neighbour first, as this can bring out questions that nobody would ask alone. Before the talk, prepare for likely questions, and keep your **backup slides** from Episode 9.2 ready.
+
+### When you don't know
+
+At some point, someone will ask something you can't answer. That's normal, and handling it can earn you trust. Reflect on the example below:
+
+> "Thank you, that's an important question. I haven't looked at that in my data, so I don't want to guess. Can I find out and follow up with you after the session?"
+
+Say this when you actually plan to follow up. A sensitive audience can tell when you're merely bluffing or trying to change the subject. Say this when you actually plan to follow up.
+
